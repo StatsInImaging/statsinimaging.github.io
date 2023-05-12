@@ -1,0 +1,13 @@
+---
+# Only the main Sass file needs front matter (the dashes are enough)
+---
+
+@import "minima";
+
+.site-title {
+content: url("/assets/ASA-SI-logo.png");
+display: inline-block;
+position: relative;
+width: 500px;
+top: 5px;
+}
