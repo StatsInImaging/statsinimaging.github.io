@@ -8,9 +8,9 @@ permalink: /officers/
 
 ## Current Section Officers
 
-<p>
 {% assign requested_year = 2023 %}
 {% assign yearly_officer_list = site.data.officers | where_exp:"item", "item.Years contains requested_year" %}
+<table>
 {% for position in position_list %}
   {% for officer in yearly_officer_list %}
     {% for service_year in officer.Years %}
@@ -18,13 +18,20 @@ permalink: /officers/
         {% assign index = forloop.index0 %}
         {% assign position_title = officer.Positions[index] %}
         {% if position_title == position %}
-            <b>{{position}}</b>  {{ officer.Firstname }} {{ officer.Lastname }} <br>
+            <tr>
+            <th>
+            <b>{{position}}</b>
+            </th>
+            <th>
+            {{ officer.Firstname }} {{ officer.Lastname }}
+            </th>
+            </tr>
         {% endif %}
       {% endif %}
     {% endfor %}
   {% endfor %}
 {% endfor %}
-</p>
+</table>
 
 
 
