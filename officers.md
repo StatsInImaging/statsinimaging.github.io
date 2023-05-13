@@ -4,36 +4,23 @@ title: "Officers"
 permalink: /officers/
 ---
 
-{% assign position_list = "Chair|Past-Chair|Chair-Elect|Secretary|Treasurer|Program Chair|Program Chair-Elect|Publications Officer|Statistics in Imaging Section Representative|Council of Sections Governing Board Vice Chair|Staff Liaison" | split: "|" %}
+# Current Section Officers
 
-## Current Section Officers
+{% include yearly_officer_table.html requested_year=2023 %}
 
-{% assign requested_year = 2023 %}
-{% assign yearly_officer_list = site.data.officers | where_exp:"item", "item.Years contains requested_year" %}
-<table>
-{% for position in position_list %}
-  {% for officer in yearly_officer_list %}
-    {% for service_year in officer.Years %}
-      {% if service_year == requested_year %}
-        {% assign index = forloop.index0 %}
-        {% assign position_title = officer.Positions[index] %}
-        {% if position_title == position %}
-            <tr>
-            <th>
-            <b>{{position}}</b>
-            </th>
-            <th>
-            {{ officer.Firstname }} {{ officer.Lastname }}
-            </th>
-            </tr>
-        {% endif %}
-      {% endif %}
-    {% endfor %}
-  {% endfor %}
-{% endfor %}
-</table>
+# Previous Section Officers
 
-
+{% include yearly_officer_table.html requested_year=2022 %}
+{% include yearly_officer_table.html requested_year=2021 %}
+{% include yearly_officer_table.html requested_year=2020 %}
+{% include yearly_officer_table.html requested_year=2019 %}
+{% include yearly_officer_table.html requested_year=2018 %}
+{% include yearly_officer_table.html requested_year=2017 %}
+{% include yearly_officer_table.html requested_year=2016 %}
+{% include yearly_officer_table.html requested_year=2015 %}
+{% include yearly_officer_table.html requested_year=2014 %}
+{% include yearly_officer_table.html requested_year=2013 %}
+{% include yearly_officer_table.html requested_year=2012 %}
 
 
 
