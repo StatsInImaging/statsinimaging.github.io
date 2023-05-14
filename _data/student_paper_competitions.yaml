@@ -1,0 +1,420 @@
+---
+- Lastname: Bau
+  Firstname: Jingxuan
+  Year: 2023
+  Conference: JSM 
+  Type: Winner
+  Title: Heritability-aware brain atlas improves the power of brain imaging-genetic studies
+  Affil: University of Pennsylvania
+  Advisor: Qi Long and Li Shen
+  Track: N/A
+
+- Lastname: Chen
+  Firstname: Andrew
+  Year: 2022
+  Conference: JSM
+  Type: Runner-Up
+  Title: Harmonizing Functional Connectivity Reduces Scanner Effects in Community Detection
+  Affil: University of Pennsylvania
+  Advisor: Taki Shinohara and Haochang Shou
+  Track: N/A
+
+- Lastname: Consagra
+  Firstname: William
+  Year: 2022
+  Conference: JSM
+  Type: Runner-Up
+  Title: Optimized Diffusion Imaging for Brain Structural Connectome Analysis
+  Affil: University of Rochester
+  Advisor: Zhengwu Zhang
+  Track: N/A
+
+- Lastname: Dai
+  Firstname: Tian
+  Year: 2016
+  Conference: JSM
+  Type: Runner-Up
+  Title: Predictability of Brain Functional Connectivity in Resting-state fMRI Data Using a Bayesian Hierarchical Model
+  Affil: Emory University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Deng
+  Firstname: Yujia
+  Year: 2019
+  Conference: JSM
+  Type: Runner-Up
+  Title: Correlation Tensor Decomposition and Its Application in Spatial Imaging Data 
+  Affil: University of Illinois, Urbana Champaign
+  Advisor: Annie Qu
+  Track: N/A
+
+- Lastname: Dilernia
+  Firstname: Andrew
+  Year: 2020
+  Conference: SMI
+  Type: Winner
+  Title: Penalized model-based clustering of fMRI 
+  Affil: University of Minnesota
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Gao
+  Firstname: Xu
+  Year: 2017
+  Conference: JSM
+  Type: Runner-Up
+  Title: Evolutionary State-Space Model and Its Application to Time-Frequency Analysis of Local Field Potentials
+  Affil: University of California at Irvine
+  Advisor: Hernando Ombao
+  Track: N/A
+
+- Lastname: Gu
+  Firstname: Zhiling
+  Year: 2023
+  Conference: SMI
+  Type: Runner-Up
+  Title: TSSS - A Novel Triangulated Spherical Spline Smoothing for Surface-based Imaging
+  Affil: Iowa State University
+  Advisor: N/A
+  Track: Theory and Methods
+
+- Lastname: Hare
+  Firstname: Eric
+  Year: 2016
+  Conference: JSM
+  Type: Winner
+  Title: Matching Bullets 
+  Affil: Iowa State University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Hu
+  Firstname: Yifei
+  Year: 2022
+  Conference: JSM
+  Type: Runner-Up
+  Title: Weak Signal Inference Under Dependence and Sparsity with Application to fMRI Image Data 
+  Affil: North Carolina State University
+  Advisor: Jesse Jeng
+  Track: N/A
+
+- Lastname: Hu
+  Firstname: Yingtian
+  Year: 2021
+  Conference: JSM
+  Type: Winner
+  Title: A Multimodal, Multilevel Neuroimaging Model for Investigating Brain Connectome Development  
+  Affil: Emory University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Lee
+  Firstname: Eunjee
+  Year: 2017
+  Conference: JSM
+  Type: Winner
+  Title: Bayesian Low-rank Graph Regression Models for Mapping Human Connectome Data
+  Affil: University of North Carolina at Chapel Hill
+  Advisor: Hongtu Zhu
+  Track: N/A
+
+- Lastname: Li
+  Firstname: Mengyu
+  Year: 2023
+  Conference: JSM
+  Type: Runner-Up
+  Title: Importance Sparsification for Sinkhorn Algorithm with Application in Efficient Echocardiogram Analysis
+  Affil: Renmin University of China
+  Advisor: Cheng Meng
+  Track: N/A
+
+- Lastname: Liu
+  Firstname: Bingyuan
+  Year: 2019
+  Conference: JSM
+  Type: Winner
+  Title: High-Dimensional Robust Scalar-on-Image Regression via Thresholding Function and Nonconvex Learning 
+  Affil: Pennsylvania State University
+  Advisor: Lingzhou Xue
+  Track: N/A
+
+- Lastname: Liu
+  Firstname: Leo Yu-Feng
+  Year: 2016
+  Conference: JSM
+  Type: Runner-Up
+  Title: Spatial Large-Margin Angle-Based Classifier for Multi-Category Neuroimaging Data
+  Affil: UNC Chapel Hill
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Llosa-Vite
+  Firstname: Carlos
+  Year: 2022
+  Conference: JSM
+  Type: Winner
+  Title: Reduced-Rank Tensor-on-Tensor Regression and Tensor-variate Analysis of Variance
+  Affil: Iowa State University 
+  Advisor: Ranjan Maitra
+  Track: N/A
+
+- Lastname: Llosa
+  Firstname: Carlos
+  Year: 2022
+  Conference: SMI
+  Type: Runner-Up
+  Title: Tensor-variate Elliptically Contoured distributions with Application to Image Learning
+  Affil: N/A
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Lukemire
+  Firstname: Joshua
+  Year: 2021
+  Conference: JSM
+  Type: Runner-Up
+  Title: Sparse Bayesian Modeling of Hierarchical Independent Component Analysis - Reliable Estimation of Individual Differences in Brain Networks
+  Affil: Emory University
+  Advisor: Ying Guo
+  Track: N/A
+
+- Lastname: Ma
+  Firstname: Guoxuan
+  Year: 2023
+  Conference: JSM
+  Type: Runner-Up
+  Title: Measuring Information Transfer Between Nodes in a Brain Network through Spectral Transfer Entropy
+  Affil: King Abdullah University of Science and Technology
+  Advisor: Raphael Huser
+  Track: N/A
+
+- Lastname: Ma
+  Firstname: Xin
+  Year: 2022
+  Conference: SMI
+  Type: Winner
+  Title: Multi-task Learning with High-Dimensional Noisy Images
+  Affil: N/A
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: McDonnell
+  Firstname: Erin
+  Year: 2021
+  Conference: JSM
+  Type: Winner
+  Title: Dynamic Gaussian Graphical Models to Study Time-Varying Clinical Symptom and Imaging Networks 
+  Affil: Columbia University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Park
+  Firstname: Jun Young
+  Year: 2019
+  Conference: JSM
+  Type: Runner-Up
+  Title: Semiparametric modeling of time-varying activation and connectivity in task-basedfMRI data
+  Affil: University of Minnesota
+  Advisor: Mark Fiecas
+  Track: N/A
+
+- Lastname: Paul
+  Firstname: Subhadeep
+  Year: 2017
+  Conference: JSM
+  Type: Runner-Up
+  Title: Community Detection in a Group of Related Networks with Applications to Neuroimaging Studies
+  Affil: University of Illinois at Urbana-Champaign
+  Advisor: Yuguo Chen
+  Track: N/A
+
+- Lastname: Pluta
+  Firstname: Dustin Steven
+  Year: 2018
+  Conference: JSM
+  Type: Runner-Up
+  Title: Adaptive Mantel Test for Penalized Inference, with Applications to imaging genetics
+  Affil: University of California, Irvine
+  Advisor: Hernando Ombao and Zhaoxia Yu
+  Track: N/A
+
+- Lastname: Ran
+  Firstname: Jialu
+  Year: 2023
+  Conference: SMI
+  Type: Winner
+  Title: Nonparametric motion adjustment in studies of functional connectivity alterations in autism spectrum disorder children
+  Affil: Emory University
+  Advisor: Ying Guo
+  Track: Theory and Methods
+
+- Lastname: Risk
+  Firstname: Benjamin
+  Year: 2016
+  Conference: JSM
+  Type: Runner-Up
+  Title: Spatiotemporal Mixed Modeling of Multi-subject fMRI via Method of Moments
+  Affil: SAMSI
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Tan
+  Firstname: Xi
+  Year: 2023
+  Conference: JSM
+  Type: Runner-Up
+  Title: Bayesian structural determination by cryo-electron microscopy
+  Affil: Rice University
+  Advisor: Meng Li
+  Track: N/A
+
+- Lastname: Thompson
+  Firstname: Geoffrey
+  Year: 2021
+  Conference: JSM
+  Type: Winner
+  Title: CatSIM - A Categorical Image Similarity Metric 
+  Affil: Indiana University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Tung
+  Firstname: Nathan
+  Year: 2022
+  Conference: JSM
+  Type: Runner-Up
+  Title: Neuro-Hotnet - A Graph Theoretic Approach for Brain FC Estimation
+  Affil: Ani Eloyan
+  Advisor: Jesse Jeng
+  Track: N/A
+
+- Lastname: Wang
+  Firstname: Bingkai
+  Year: 2020
+  Conference: SMI
+  Type: Winner
+  Title: Semiparametric partial common principal component analysis for covariance matrices
+  Affil: Johns Hopkins University
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Wang
+  Firstname: Shiying
+  Year: 2022
+  Conference: SMI
+  Type: Winner
+  Title: Heterogeneity Analysis on Multi-state Brain Functional Connectivity and adolescent neurocognition
+  Affil: N/A
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Wang
+  Firstname: Shulei
+  Year: 2016
+  Conference: JSM
+  Type: Runner-Up
+  Title: Optimal Correlation Detection with Application to Colocalization Analysis in Dual-Channel Fluorescence Microscopic Imaging
+  Affil: University of Wisconsin-Madison
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Wang
+  Firstname: Yikai
+  Year: 2018
+  Conference: JSM
+  Type: Winner
+  Title: A novel hierarchical independent component modeling framework with application to longitudinal fMRI study
+  Affil: Emory University
+  Advisor: Ying Guo
+  Track: N/A
+
+- Lastname: Weinstein
+  Firstname: Sarah
+  Year: 2021
+  Conference: JSM
+  Type: Runner-Up
+  Title: A Simple Permutation-Based Test of Intermodal Correspondence 
+  Affil: University of Pennsylvania
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Wu
+  Firstname: Qiong
+  Year: 2020
+  Conference: SMI
+  Type: Winner
+  Title: Predicting Latent Links from Incomplete Network Data Using Exponential Random Graph Model with Outcome Misclassification
+  Affil: University of Maryland
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Xu
+  Firstname: Yuchen
+  Year: 2023
+  Conference: SMI
+  Type: Winner
+  Title: Dynamic Atomic Column Detection in Transmission Electron Microscopy Videos via Ridge Estimation 
+  Affil: Cornell University
+  Advisor: N/A
+  Track: Case Studies and Application
+
+- Lastname: Yu
+  Firstname: Cheng-Han
+  Year: 2017
+  Conference: JSM
+  Type: Runner-Up
+  Title: A Bayesian Variable Selection Approach Yields Improved Brain Activation From Complex-Valued fMRI
+  Affil: University of California at Santa Cruz
+  Advisor: Raquel Prado
+  Track: N/A
+
+- Lastname: Yu
+  Firstname: Shan
+  Year: 2019
+  Conference: JSM
+  Type: Runner-Up
+  Title: Estimation and Inference for Spatially Varying Coefficient Models with Applications to Image-on-Scalar Regression
+  Affil: Iowa State University
+  Advisor: Lily Wang
+  Track: N/A
+
+- Lastname: Zeng
+  Firstname: Zijian
+  Year: 2022
+  Conference: SMI
+  Type: Runner-Up
+  Title: Bayesian Image-on-scalar Regression with Spatial Global-local Spike & Slab Prior
+  Affil: N/A
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Zhang
+  Firstname: Rongqian
+  Year: 2022
+  Conference: SMI
+  Type: Runner-Up
+  Title: A structured multivariate approach for removal of latent batch effects
+  Affil: N/A
+  Advisor: N/A
+  Track: N/A
+
+- Lastname: Zhang
+  Firstname: Yizi
+  Year: 2023
+  Conference: SMI
+  Type: Runner-Up
+  Title: Motion-Invariant Variational Auto-Encoding of Brain Structural Connectomes
+  Affil: Columbia University
+  Advisor: N/A
+  Track: Case Studies and Application
+
+- Lastname: Zhang
+  Firstname: Youyi
+  Year: 2018
+  Conference: JSM
+  Type: Runner-Up
+  Title: Radio-iBAG - Radiomics-based Integrative Bayesian Analysis of Multiplatform Genomic Data 
+  Affil: The University of Texas MD Anderson Cancer Center
+  Advisor: Jeffrey Morris and Veera Baladandayuthapani
+  Track: N/A
