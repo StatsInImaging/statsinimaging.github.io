@@ -1,0 +1,294 @@
+---
+- Lastname: Bowman
+  Firstname: DuBois
+  Years: [2013, 2012]
+  Positions: [Treasurer, Treasurer]
+  affil: University of Michigan
+  email: fdbowman@umich.edu
+
+- Lastname: Caffo
+  Firstname: Brian
+  Years: [2014, 2013, 2012]
+  Positions: [Secretary, Secretary, Secretary]
+  affil: Johns Hopkins University
+  email: bcaffoweb@jhu.edu
+
+- Lastname: Chen
+  Firstname: Shuo
+  Years: [2021, 2020]
+  Positions: [Treasurer, Treasurer]
+  affil: University of Maryland
+  email: shuochen@som.umaryland.edu
+
+- Lastname: Chervoneva
+  Firstname: Inna
+  Years: [2016, 2015]
+  Positions: [Secretary, Secretary]
+  affil: Thomas Jefferson University
+  email: Inna.Chervoneva@jefferson.edu
+
+- Lastname: Ciarleglio
+  Firstname: Adam
+  Years: [2018, 2017]
+  Positions: [Secretary, Secretary]
+  affil: George Washington University
+  email: aciarleglio@gwu.edu
+
+- Lastname: Crainiceanu
+  Firstname: Ciprian
+  Years: [2022, 2021, 2016, 2015, 2014]
+  Positions: [Chair, Chair-Elect, Past-Chair, Chair, Chair-Elect]
+  affil: Johns Hopkins University
+  email: ccraini1@jhu.edu
+
+- Lastname: Gebregziabher
+  Firstname: Mulugeta
+  Years: [2017, 2016, 2015]
+  Positions: [Publications Officer, Publications Officer, Publications Officer]
+  affil: MUSC
+  email: gebregz@musc.edu
+
+- Lastname: Ghosh Dastidar
+  Firstname: Madhumita
+  Years: [2014, 2013, 2012]
+  Positions: [Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair]
+  affil: RAND Corporation
+  email: bonnieg@rand.org
+
+- Lastname: Guo
+  Firstname: Ying
+  Years: [2023, 2022, 2017, 2016]
+  Positions: [Chair, Chair-Elect, Program Chair, Program Chair-Elect]
+  affil: Emory University
+  email: yguo2@emory.edu
+
+- Lastname: Harezlak
+  Firstname: Jaroslaw
+  Years: [2019, 2018]
+  Positions: [Treasurer, Treasurer]
+  affil: Indiana University
+  email: harezlak@iu.edu
+
+- Lastname: Jiang
+  Firstname: Bei
+  Years: [2022, 2021]
+  Positions: [Secretary, Secretary]
+  affil: University of Alberta
+  email: bei1@ualberta.ca
+
+- Lastname: Johnson
+  Firstname: Timothy
+  Years: [2015, 2014, 2013]
+  Positions: [Past-Chair, Chair, Chair-Elect]
+  affil: University of Michigan
+  email: tdjtdj@umich.edu
+
+- Lastname: Kang
+  Firstname: Jian
+  Years: [2016, 2015]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: University of Michigan
+  email: jiankang@umich.edu
+
+- Lastname: Kong
+  Firstname: Linglong
+  Years: [2020, 2019]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: University of Alberta
+  email: lkong@ualberta.ca
+
+- Lastname: Kornak
+  Firstname: John
+  Years: [2017, 2016, 2015]
+  Positions: [Past-Chair, Chair, Chair-Elect]
+  affil: UCSF
+  email: john.kornak@ucsf.edu
+
+- Lastname: Lazar
+  Firstname: Nicole
+  Years: [2019, 2018, 2017]
+  Positions: [Past-Chair, Chair, Chair-Elect]
+  affil: Penn State University
+  email: nfl5182@psu.edu
+
+- Lastname: Lindquist
+  Firstname: Martin
+  Years: [2018, 2017, 2016, 2014, 2013]
+  Positions: [Past-Chair, Chair, Chair-Elect, Program Chair, Program Chair-Elect]
+  affil: Johns Hopkins University
+  email: mlindquist@jhu.edu
+
+- Lastname: Li
+  Firstname: Lexin
+  Years: [2018, 2017]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: UC Berkeley
+  email: lexinli@berkeley.edu
+
+- Lastname: Linn
+  Firstname: Kristin
+  Years: [2023, 2023, 2022]
+  Positions: [Treasurer, Program Chair-Elect, Treasurer]
+  affil: University of Pennsylvania
+  email: klinn@pennmedicine.upenn.edu
+
+- Lastname: Lukemire
+  Firstname: Joshua
+  Years: [2023]
+  Positions: [Secretary]
+  affil: Emory University
+  email: joshua.lukemire@emory.edu
+
+- Lastname: Maitra
+  Firstname: Ranjan
+  Years: [2014, 2013, 2012]
+  Positions: [Publications Officer, Publications Officer, Publications Officer]
+  affil: Iowa State University
+  email: maitra@iastate.edu
+
+- Lastname: Mejia
+  Firstname: Amanda
+  Years: [2020, 2019, 2018]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
+  affil: Indiana University
+  email: afmejia@iu.edu
+
+- Lastname: Myers
+  Firstname: Kary
+  Years: [2014, 2013, 2012]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
+  affil: Los Alamos National Laboratory
+  email: kary@lanl.gov
+
+- Lastname: Nan
+  Firstname: Bin
+  Years: [2015, 2014]
+  Positions: [Treasurer, Treasurer]
+  affil: UC Irvine
+  email: nanb@uci.edu
+
+- Lastname: Ogden
+  Firstname: Robert
+  Years: [2017, 2016, 2015]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
+  affil: Columbia University
+  email: NA
+
+- Lastname: Ombao
+  Firstname: Hernando
+  Years: [2020, 2019, 2018]
+  Positions: [Past-Chair, Chair, Chair-Elect]
+  affil: King Abdullah University of Science and Technology
+  email: hernando.ombao@kaust.edu.sa
+
+- Lastname: Peterson
+  Firstname: Rick
+  Years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
+  Positions: [Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison]
+  affil: American Statistical Association
+  email: rick@amstat.org
+
+- Lastname: Risk
+  Firstname: Benjamin
+  Years: [2023, 2022]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: Emory University
+  email: benjamin.risk@emory.edu
+
+- Lastname: Rotelli
+  Firstname: Natalie
+  Years: [2017, 2016, 2015]
+  Positions: [Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair]
+  affil: Eli Lily
+  email: NA
+
+- Lastname: Rowe
+  Firstname: Dan
+  Years: [2013, 2012]
+  Positions: [Past-Chair, Chair]
+  affil: Marquette University
+  email: daniel.rowe@marquette.edu
+
+- Lastname: Scinto
+  Firstname: Phil
+  Years: [2018, 2019, 2020]
+  Positions: [Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair, Council of Sections Governing Board Vice Chair]
+  affil: The Lubrizol Corporation
+  email: NA
+
+- Lastname: Shen
+  Firstname: Haipeng
+  Years: [2015, 2014]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: HKU
+  email: haipeng@hku.hk
+
+- Lastname: Shinohara
+  Firstname: Russell
+  Years: [2021, 2020, 2019, 2016]
+  Positions: [Program Chair, Program Chair-Elect, Treasurer, Treasurer]
+  affil: University of Pennsylvania
+  email: rshi@pennmedicine.upenn.edu
+
+- Lastname: Spencer
+  Firstname: Daniel
+  Years: [2023]
+  Positions: [Publications Officer]
+  affil: Verisk
+  email: danieladamspencer@gmail.com
+
+- Lastname: Srivastava
+  Firstname: Anuj
+  Years: [2021, 2020, 2019]
+  Positions: [Past-Chair, Chair, Chair-Elect]
+  affil: Florida State University
+  email: anuj@stat.fsu.edu 
+
+- Lastname: Sweeney
+  Firstname: Elizabeth
+  Years: [2023, 2022, 2021, 2020, 2019]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Secretary, Secretary]
+  affil: University of Pennsylvania
+  email: elizabeth.sweeney@pennmedicine.upenn.edu
+
+- Lastname: Vandekar
+  Firstname: Simon
+  Years: [2022, 2021]
+  Positions: [Program Chair, Program Chair-Elect]
+  affil: Vanderbilt University
+  email: simon.vandekar@vumc.org
+
+- Lastname: Vannucci
+  Firstname: Marina
+  Years: [2023]
+  Positions: [Chair-Elect]
+  affil: Rice University
+  email: marina@rice.edu
+
+- Lastname: Zhang
+  Firstname: Fengqing
+  Years: [2020, 2019, 2018]
+  Positions: [Publications Officer, Publications Officer, Publications Officer]
+  affil: Drexel University
+  email: fengqing.zhang@drexel.edu
+
+- Lastname: Zhang
+  Firstname: Tingting
+  Years: [2022, 2021, 2020, 2019, 2018]
+  Positions: [Past-Chair, Chair, Chair-Elect, Program Chair, Program Chair-Elect]
+  affil: University of Pittsburgh
+  email: TIZ67@pitt.edu
+
+- Lastname: Zhang
+  Firstname: Zhengwu
+  Years: [2022, 2021]
+  Positions: [Publications Officer, Publications Officer]
+  affil: UNC Chapel Hill
+  email: zhengwu_zhang@unc.edu
+
+- Lastname: Zhu
+  Firstname: Hongtu
+  Years: [2014, 2013]
+  Positions: [Past-Chair, Chair]
+  affil: UNC Chapel Hill
+  email: htzhu@email.unc.edu

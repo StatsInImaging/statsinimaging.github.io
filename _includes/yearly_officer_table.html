@@ -1,0 +1,40 @@
+<p1>
+  SI {{ include.requested_year }} Officers
+</p1>
+
+{% assign position_list = "Chair|Past-Chair|Chair-Elect|Treasurer|Secretary|Program Chair|Program Chair-Elect|Publications Officer|Statistics in Imaging Section Representative|Council of Sections Governing Board Vice Chair|Staff Liaison" | split: "|" %}
+
+{% assign requested_year = include.requested_year %}
+{% assign yearly_officer_list = site.data.officers | where_exp:"item", "item.Years contains requested_year" %}
+<table>
+<colgroup>
+<col width="70%" />
+<col width="30%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th>Position</th>
+<th>Officer</th>
+</tr>
+</thead>
+{% for position in position_list %}
+  {% for officer in yearly_officer_list %}
+    {% for service_year in officer.Years %}
+      {% if service_year == requested_year %}
+        {% assign index = forloop.index0 %}
+        {% assign position_title = officer.Positions[index] %}
+        {% if position_title == position %}
+            <tr>
+            <td>
+            <b>{{position}}</b>
+            </td>
+            <td>
+            {{ officer.Firstname }} {{ officer.Lastname }}
+            </td>
+            </tr>
+        {% endif %}
+      {% endif %}
+    {% endfor %}
+  {% endfor %}
+{% endfor %}
+</table>
