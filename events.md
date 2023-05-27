@@ -1,6 +1,6 @@
 ---
 layout: page
-title: "Events"
+title: Events
 permalink: /events
 has_children: true
 ---
