@@ -1,29 +1,14 @@
 # main links links
 main:
   
-  - title: "Research"
-    url: /research/
+  - title: "Events"
+    url: /events/
     
-  - title: "Publications"
-    url: /publications/
+  - title: "Officers"
+    url: /officers/
     
-  - title: "Software"
-    url: /software/
+  - title: "Student Paper Competitions"
+    url: /competitions/
 
-  - title: "Talks"
-    url: /talks/    
-
-  - title: "Teaching"
-    url: /teaching/  
-    
-  ##- title: "Portfolio"
-  ##  url: /portfolio/
-        
-  - title: "News"
-    url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
-    
-  ##- title: "Guide"
-  ##  url: /markdown/
+  - title: "Videos"
+    url: /Videos/    
