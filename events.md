@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: Events
-permalink: /events
 has_children: true
 ---
 
