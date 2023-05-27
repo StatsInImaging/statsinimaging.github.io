@@ -1,7 +1,7 @@
 ---
-layout: default
-title: SMI Conferences
-parent: Events
+layout: page
+title: "SMI Conferences"
+parent: "Events"
 nav_order: 1
 permalink: /events/smi
 ---
