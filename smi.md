@@ -1,11 +1,10 @@
 ---
 layout: page
-title: Statistical Methods in Imaging Conferences
+title: "Statistical Methods in Imaging Conferences"
 nav_order: 1
 parent: Events
 permalink: /events/smi/
 ---
-## Past SMI Conferences
 * [SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): University of Minnesota, Minneapolis, MN
 * [SMI 2022](https://www.vumc.org/biostatistics/smi/): Vanderbilt University, Nashville, TN
 * [SMI 2021](https://scholarblogs.emory.edu/smi2021/): Emory University, Atlanta, GA
