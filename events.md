@@ -2,7 +2,7 @@
 layout: page
 title: Events
 nav: true
-nav_order: 1
+nav_order: 2
 permalink: /events/
 dropdown: true
 children: 
