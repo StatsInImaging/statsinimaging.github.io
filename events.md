@@ -1,8 +1,14 @@
 ---
 layout: page
-title: "Events"
+title: Events
+nav: true
 nav_order: 1
-has_children: true
 permalink: /events/
+dropdown: true
+children: 
+    - title: SMI Conferences
+      permalink: /smi/
+    - title: Workshops
+      permalink: /workshops/
 ---
 ### Upcoming Events
