@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "Officers"
-permalink: /officers/
+permalink: /about_officers/
 ---
 
 # Current Section Officers
