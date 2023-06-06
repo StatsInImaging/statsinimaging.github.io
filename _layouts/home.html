@@ -3,16 +3,17 @@ layout: default
 ---
 
 <head>
-<link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
+  <link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
 </head>
+
 
 <div class="home">
   {%- if page.title -%}
-    <h1 class="page-heading">{{ page.title }}</h1>
+  <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
 
   {{ content }}
-
+  <!-- Remove news in the home page
   {%- if site.posts.size > 0 -%}
     <h2 class="post-list-heading">{{ page.list_title | default: "News" }}</h2>
     <ul class="post-list">
@@ -33,6 +34,8 @@ layout: default
     </ul>
 
     <p class="rss-subscribe">subscribe <a href="{{ "/feed.xml" | relative_url }}">via RSS</a></p>
+      -->
   {%- endif -%}
+
 
 </div>
