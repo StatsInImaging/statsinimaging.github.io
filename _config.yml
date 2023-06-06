@@ -27,6 +27,8 @@ url: "https://statsinimaging.github.io" # the base hostname & protocol for your 
 twitter_username: ASAimaging
 github_username:  statsinimaging
 
+show_excerpts: true
+
 # Build settings
 theme: minima
 plugins:
