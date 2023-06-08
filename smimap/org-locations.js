@@ -5,7 +5,7 @@ var addressPoints = [
     -83.7430
   ],
   [
-    "Boulder, CT, USA",
+    "Boulder, CO, USA",
     40.0150,
     -105.2705
   ],
@@ -26,7 +26,7 @@ var addressPoints = [
   ],
   
   [
-    "Atlanta, GA, AU",
+    "Atlanta, GA, USA",
     33.7488, 
     -84.3877
   ],
@@ -36,7 +36,7 @@ var addressPoints = [
     -86.7816
   ],
    [
-    "Budapest, HU",
+    "Minneapolis, MN, USA",
     44.9778, 
     -93.2650
   ],
