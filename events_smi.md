@@ -5,7 +5,7 @@
 layout: page
 permalink: /events_smi/
 ---
-**<div align = "center">The Statistical Methods in Imaging Conference</div>**
+The Statistical Methods in Imaging Conference
 ==============
 The Statistical Methods in Imaging (SMI) conference is an annual meeting of the ASA Statistics in Imaging Section. The conference aims to gather together investigators working on methods and applications in a diverse array of imaging science areas, including neuroimaging, immunofluorescence imaging, and geospatial imaging.
 
