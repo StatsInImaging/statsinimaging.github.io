@@ -3,7 +3,7 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: page
-title: **<p style="text-align: center;">The Statistical Methods in Imaging (SMI) Conference</p>**
+title: The Statistical Methods in Imaging (SMI) Conference
 permalink: /events_smi/
 ---
 
