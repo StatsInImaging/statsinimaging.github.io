@@ -5,6 +5,6 @@
 layout: page
 permalink: /events_workshops/
 ---
-
+## Workshops
 * [Organization for Human Brain Mapping](https://www.humanbrainmapping.org/i4a/pages/index.cfm?pageid=1/)
 * [National Institute of Mental Health](https://www.nimh.nih.gov/)
