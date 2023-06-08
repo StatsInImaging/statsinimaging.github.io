@@ -23,5 +23,7 @@ Past SMI Meetings
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/225px-UPenn_shield_with_banner.svg.png" width = "50" height = "50">&nbsp;[SMI 2018](https://smi2018.netlify.app/): University of Pennsylvania, Philadelphia, PA
 
 <img src = "https://upload.wikimedia.org/wikipedia/en/f/fb/University_of_Pittsburgh_seal.svg" width = "50" height = "50">&nbsp;SMI 2017: University of Pittsburgh, Pittsburgh, PA
-* SMI 2016: University of Corolado, Boulder, CO
-* SMI 2015: University of Michigan, Ann Arbor, MI
+
+<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/University_of_Colorado_seal.svg/225px-University_of_Colorado_seal.svg.png" width = "50" height = "50">&nbsp;SMI 2016: University of Corolado, Boulder, CO
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: University of Michigan, Ann Arbor, MI
