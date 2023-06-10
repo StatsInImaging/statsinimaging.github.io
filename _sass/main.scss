@@ -57,15 +57,13 @@ $on-laptop:        800px !default;
 .dropdown {
   position: relative;
   display: inline-block;
-  color: #FFF;
-  background-color:#ADD8E6;
 }
 
 .dropdown-content {
   display: none;
   position: absolute;
-  color: #FFF;
-  background-color:#ADD8E6;
+  color: #FFFFFF;
+  background-color:#007dba;
   white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 12px 16px;
