@@ -12,8 +12,8 @@ $base-line-height: 1.5 !default;
 
 $spacing-unit:     30px !default;
 
-$text-color:       #FFF !default;
-$background-color: #ADD8E6 !default;
+$text-color:       #000000 !default;
+$background-color: #fdfdfd !default;
 $brand-color:      #2a7ae2 !default;
 
 $grey-color:       #828282 !default;
@@ -57,6 +57,8 @@ $on-laptop:        800px !default;
 .dropdown {
   position: relative;
   display: inline-block;
+  color: #FFF;
+  background-color:#ADD8E6;
 }
 
 .dropdown-content {
