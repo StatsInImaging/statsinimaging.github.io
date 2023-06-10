@@ -25,14 +25,14 @@ Past SMI Meetings
 
 <img src = "https://garyhaukcom.files.wordpress.com/2015/11/eshield_2801.jpg" width = "50" height = "50">&nbsp;[SMI 2021](https://scholarblogs.emory.edu/smi2021/): **Emory University**, Atlanta, GA
 
-<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/225px-University_of_California%2C_Irvine_seal.svg.png" width = "50" height = "50">&nbsp;[SMI 2019](https://sites.uci.edu/smi2019/): University of California Irvine, Irvine, CA
+<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/225px-University_of_California%2C_Irvine_seal.svg.png" width = "50" height = "50">&nbsp;[SMI 2019](https://sites.uci.edu/smi2019/): **University of California Irvine**, Irvine, CA
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/225px-UPenn_shield_with_banner.svg.png" width = "50" height = "50">&nbsp;[SMI 2018](https://smi2018.netlify.app/): University of Pennsylvania, Philadelphia, PA
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/UPenn_shield_with_banner.svg/225px-UPenn_shield_with_banner.svg.png" width = "50" height = "50">&nbsp;[SMI 2018](https://smi2018.netlify.app/): **University of Pennsylvania**, Philadelphia, PA
 
-<img src = "https://upload.wikimedia.org/wikipedia/en/f/fb/University_of_Pittsburgh_seal.svg" width = "50" height = "50">&nbsp;[SMI 2017](https://www.eventbrite.com/e/statistical-methods-in-imaging-conference-registration-29081426329/): University of Pittsburgh, Pittsburgh, PA
+<img src = "https://upload.wikimedia.org/wikipedia/en/f/fb/University_of_Pittsburgh_seal.svg" width = "50" height = "50">&nbsp;[SMI 2017](https://www.eventbrite.com/e/statistical-methods-in-imaging-conference-registration-29081426329/): **University of Pittsburgh**, Pittsburgh, PA
 
-<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/University_of_Colorado_seal.svg/225px-University_of_Colorado_seal.svg.png" width = "50" height = "50">&nbsp;SMI 2016: University of Corolado, Boulder, CO
+<img src = "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/University_of_Colorado_seal.svg/225px-University_of_Colorado_seal.svg.png" width = "50" height = "50">&nbsp;SMI 2016: **University of Corolado**, Boulder, CO
 
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: University of Michigan, Ann Arbor, MI
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: **University of Michigan**, Ann Arbor, MI
 
 [SMI Footprints](https://statsinimaging.github.io/smimap/map.html)
