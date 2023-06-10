@@ -23,7 +23,7 @@ Past SMI Meetings
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vanderbilt_Commodores_%282022%29_logo.svg/225px-Vanderbilt_Commodores_%282022%29_logo.svg.png" width = "50" height = "50">&nbsp;[SMI 2022](https://www.vumc.org/biostatistics/smi/): **Vanderbilt University**, Nashville, TN
 
-<img src = "https://garyhaukcom.files.wordpress.com/2015/11/eshield_2801.jpg" width = "40" height = "50">&nbsp;[SMI 2021](https://scholarblogs.emory.edu/smi2021/): **Emory University**, Atlanta, GA
+<img src = "https://garyhaukcom.files.wordpress.com/2015/11/eshield_2801.jpg" width = "45" height = "50">&nbsp;&nbsp;[SMI 2021](https://scholarblogs.emory.edu/smi2021/): **Emory University**, Atlanta, GA
 
 <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/0/0e/University_of_California%2C_Irvine_seal.svg/225px-University_of_California%2C_Irvine_seal.svg.png" width = "50" height = "50">&nbsp;[SMI 2019](https://sites.uci.edu/smi2019/): **University of California Irvine**, Irvine, CA
 
