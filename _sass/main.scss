@@ -63,8 +63,8 @@ $on-laptop:        800px !default;
 .dropdown-content {
   display: none;
   position: absolute;
-  color: #F0EDE1;
   background-color: $dropdown-background-color;
+  color: #FFFFFF;
   white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
   padding: 12px 16px;
@@ -73,6 +73,7 @@ $on-laptop:        800px !default;
 
 .dropdown:hover {
     text-decoration: underline;
+    color: #f07c1d;
 }
 
 .dropdown:hover .dropdown-content {
