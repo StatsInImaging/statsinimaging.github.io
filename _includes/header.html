@@ -4,10 +4,14 @@
     <link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
   </head>
 
-  <div class="wrapper">
+  <div class="wrapper" style="max-width: 100%; padding-left: 0px; padding-right: 0px">
+
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
-    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ site.title | escape }}</a>
+    <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ | escape }}</a>
+    <div class="SILogoOverlay">
+        <img src="/assets/ASASI_logo_transparent.png" alt="SIlogo">
+    </div>
 
     {%- if page_paths -%}
       <nav class="site-nav2">
@@ -21,10 +25,10 @@
         </label>
 
 
-        <div style="width: 100%;display: flex;flex-direction: row;justify-content: space-between;">
+        <div style="width: 100%;display: flex;flex-direction: row;justify-content: space-around;">
 
           <div class="dropdown">
-            <span><a href="/about/", style="color: #000000">About SI</a> </span>
+            <span><a href="/about/">ABOUT SI</a> </span>
             <div class="dropdown-content">
               <p><a href="/about_missionstatement/">Mission Statement</a></p>
               <p><a href="/about_history/">History</a></p>
@@ -32,10 +36,10 @@
             </div>
           </div>
 
-          <a href="/news_announcements/", style="color: #000000">News and Announcements</a>
+          <a href="/news_announcements/", style="color: #FFFFFF">NEWS AND ANNOUNCEMENTS</a>
 
           <div class="dropdown">
-            <span><a href="/events/", style="color: #000000", font-weight: bold>Events</a> </span>
+            <span><a href="/events/">EVENTS</a> </span>
             <div class="dropdown-content">
             <p><a href="/events_smi/">SMI Meetings</a></p>
             <a href="/events_workshops/">Workshops</a>
@@ -43,7 +47,7 @@
           </div>
 
           <div class="dropdown">
-            <span><a href="/competitions_home/", style="color: #000000", font-weight: bold>Awards</a></span>
+            <span><a href="/competitions_home/">AWARDS</a></span>
             <div class="dropdown-content">
             <p><a href="/jsm_competitions/">JSM SI Section Student Paper Competition</a></p>
             <a href="/smi_competitions/">SMI Conference Student Paper Competition</a>
@@ -51,7 +55,7 @@
           </div>
 
           <div class="dropdown">
-            <span>Resources</span>
+            <span><a href="/resources_home/">RESOURCES</a></span>
             <div class="dropdown-content">
             <p><a href="/resources_jobs/">Jobs</a></p>
             <p><a href="/resources_videos/">Videos</a></p>
