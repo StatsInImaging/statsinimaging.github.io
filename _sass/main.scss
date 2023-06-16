@@ -66,10 +66,14 @@ $on-laptop:        800px !default;
   display: inline-block;
 }
 
+.dropdown a {
+  color: #FFFFFF;
+}
+
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #005a84;
+  background-color: #121326;
   white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
   padding: 12px 16px;
@@ -78,19 +82,21 @@ $on-laptop:        800px !default;
 
 .dropdown-content a {
   color: #FFFFFF;
-  padding: 12px 16px;
+  padding: 2px 4px;
   text-decoration: none;
   display: block;
 }
 
-.dropdown-content a:hover {background-color: #f1f1f1}
+.dropdown-content a:hover {
+  background-color: #081c35;
+}
 
 .dropdown:hover .dropdown-content {
   display: block;
 }
 
 .dropdown:hover .dropbtn {
-  background-color: #3e8e41;
+  background-color: #081c35;
 }
 
 .SILogoOverlay {
@@ -110,7 +116,7 @@ $on-laptop:        800px !default;
   float: right;
   line-height: $base-line-height * $base-font-size * 1.15;
   width: 100%;
-  background-color: #005a84;
+  background-color: #121326;
 
   .nav-trigger {
       display: none;
@@ -129,6 +135,10 @@ $on-laptop:        800px !default;
       margin-right: 20px;
     }
   }
+
+.site-nav2 a {
+  color: #FFFFFF;
+}
 
  @include media-query($on-palm) {
     position: absolute;
