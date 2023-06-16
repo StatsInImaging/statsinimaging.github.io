@@ -5,9 +5,11 @@
 @import "minima";
 
 .site-title {
-content: url("/assets/ASA_SI_logo_dark.png");
+background: url("/assets/ASA_SI_logo_dark.jpg") no-repeat center;
+background-size: cover;
 display: inline-block;
 position: relative;
-width: 100%;
-top: 5px;
+width: 100vw;
+height: 20vh;
+top: 0px;
 }

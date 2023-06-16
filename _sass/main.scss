@@ -93,6 +93,19 @@ $on-laptop:        800px !default;
   background-color: #3e8e41;
 }
 
+.SILogoOverlay {
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+  z-index: 9;
+  position: absolute;
+  width: 100vw;
+  height: 20vh;
+  align-items: center;
+  justify-content: center;
+}
+
 .site-nav2 {
   float: right;
   line-height: $base-line-height * $base-font-size * 1.15;
