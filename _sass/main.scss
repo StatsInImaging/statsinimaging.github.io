@@ -76,19 +76,19 @@ $on-laptop:        800px !default;
   background-color: #121326;
   white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
-  padding: 12px 16px;
+  padding: 12px 0px;
   z-index: 1;
 }
 
 .dropdown-content a {
   color: #FFFFFF;
-  padding: 2px 4px;
+  padding: 2px 16px;
   text-decoration: none;
   display: block;
 }
 
 .dropdown-content a:hover {
-  background-color: #081c35;
+  background-color: #123f77;
 }
 
 .dropdown:hover .dropdown-content {
@@ -110,6 +110,19 @@ $on-laptop:        800px !default;
   height: 20vh;
   align-items: center;
   justify-content: center;
+}
+
+.JoinSIOverlay {
+  display: flex;
+  text-align: center;
+  vertical-align: middle;
+  margin: auto;
+  z-index: 9;
+  position: absolute;
+  width: 95%;
+  height: 20vh;
+  align-items: center;
+  justify-content: right;
 }
 
 .site-nav2 {
