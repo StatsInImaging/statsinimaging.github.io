@@ -9,7 +9,7 @@ title: Tutorials
 
 [A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
 ===============
-<b>April 6, 2023 | Ann Arbor, MI</b>
+<i>April 6, 2023 | Ann Arbor, MI</i>
 
 <b>Instructor(s):</b> [Julia Wrobel](http://juliawrobel.com/) (Colorado School of Public Health)
 - [Website](http://juliawrobel.com/MI_tutorial/)
@@ -18,7 +18,7 @@ title: Tutorials
 
 [iftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)](https://github.com/damondpham/ciftiTools-demo-SMI-2022/) 
 ===============
-<b>May 25, 2022 | Nashville, TN</b>
+<i>May 25, 2022 | Nashville, TN</i>
 
 <b>Instructor(s):</b> [Damon Pham](https://damondpham.github.io/) (Indiana University) and [Mandy Mejia](https://mandymejia.com/) (Indiana University)
 - [Slides](https://github.com/damondpham/ciftiTools-demo-SMI-2022/)
@@ -27,7 +27,7 @@ title: Tutorials
 
 [Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html)
 ===============
-<b>May 17, 2021 | Atlanta, GA</b>
+<i>May 17, 2021 | Atlanta, GA</i>
 
 <b>Instructor(s):</b> [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
 - [Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
