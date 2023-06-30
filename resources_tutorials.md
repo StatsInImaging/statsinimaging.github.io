@@ -20,7 +20,7 @@ title: Tutorials
 ===============
 <b>May 25, 2022 | Nashville, TN</b>
 
-<b>Instructor(s):</b> [Damon Pham](https://damondpham.github.io/) (Indiana University) and Mandy Mejia (https://mandymejia.com/) (Indiana University)
+<b>Instructor(s):</b> [Damon Pham](https://damondpham.github.io/) (Indiana University) and [Mandy Mejia](https://mandymejia.com/) (Indiana University)
 - [Slides](https://github.com/damondpham/ciftiTools-demo-SMI-2022/)
 
 <hr style="border:1px solid #DEDEDE">
