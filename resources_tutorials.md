@@ -16,13 +16,14 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
-[iftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)]
-(https://github.com/damondpham/ciftiTools-demo-SMI-2022) 
+[iftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)](https://github.com/damondpham/ciftiTools-demo-SMI-2022/) 
 ===============
 <b>May 25, 2022 | Nashville, TN</b>
 
 <b>Instructor(s):</b> [Damon Pham](https://damondpham.github.io/) (Indiana University) and Mandy Mejia (https://mandymejia.com/) (Indiana University)
 - [Slides](https://github.com/damondpham/ciftiTools-demo-SMI-2022/)
+
+<hr style="border:1px solid #DEDEDE">
 
 [Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html)
 ===============
