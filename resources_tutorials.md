@@ -7,11 +7,15 @@ permalink: /resources_tutorials/
 title: Tutorials
 ---
 
-1. [Introduction to Deep Learning (Short Course)](https://smi2021emory.github.io/Program/docs/short-course.html/)
+[Introduction to Deep Learning (Short Course)](https://smi2021emory.github.io/Program/docs/short-course.html/)
 ===============
-Instructor: [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
+<b>Instructor:</b> [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
+- [Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
+- [Slides](https://smi2021.scientistcafe.com/)
 
-[Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
+<hr style="border:1px solid #DEDEDE">
 
-[Slides](https://smi2021.scientistcafe.com/)
-
+[A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
+===============
+<b>Instructor:</b> [Julia Wrobel](http://juliawrobel.com/) (Colorado School of Public Health)
+- [Website](http://juliawrobel.com/MI_tutorial/)
