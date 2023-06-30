@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
+</head>
+
 <h3>
   <center> {{ include.requested_conference }} {{ include.requested_year }} Winners </center>
 </h3>
@@ -10,17 +14,17 @@
 {% assign winners = students | where_exp:"item", "item.Type == 'Winner'" %}
 {% assign runnerups = students | where_exp:"item", "item.Type == 'Runner-Up'" %}
 
-<table>
+<table class="tableSI">
 <colgroup>
 <col width="20%" />
 <col width="20%" />
 <col width="60%" />
 </colgroup>
 <thead>
-<tr class="header">
-<th>Name</th>
-<th>Status</th>
-<th>Paper Title</th>
+<tr>
+<th class="headerSI">Name</th>
+<th class="headerSI">Status</th>
+<th class="headerSI">Paper Title</th>
 </tr>
 </thead>
     {% for student in winners %}
