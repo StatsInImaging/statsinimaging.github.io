@@ -20,6 +20,11 @@ $grey-color:       #828282 !default;
 $grey-color-light: lighten($grey-color, 40%) !default;
 $grey-color-dark:  darken($grey-color, 25%) !default;
 
+$SI-color-blue: #121326 !global;
+$SI-color-blue-light: lighten(#121326, 80%) !global;
+$SI-color-blue2: #001E39 !global;
+$SI-color-whitetext: #FFFFFF !default;
+
 $table-text-align: left !default;
 
 // Width of the content area
@@ -52,6 +57,44 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+
+// SI Pushbutton Styles
+.buttonSI {
+  background-color: $SI-color-blue;
+  border: none;
+  color: $SI-color-whitetext;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+.buttonSIinverted {
+  background-color: SI-color-whitetext;
+  border: none;
+  color: $SI-color-blue;
+  padding: 15px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+}
+
+// SI Table Styles
+.tableSI {
+  background-color: $SI-color-whitetext;
+}
+
+.tableSI tr:nth-child(even) {
+  background-color: $SI-color-blue-light;
+}
+
+.headerSI {
+  background-color: $SI-color-blue;
+  color: $SI-color-whitetext;
+}
+
 .dropbtn {
   background-color: #3CB043;
   color: white;
@@ -73,7 +116,7 @@ $on-laptop:        800px !default;
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #121326;
+  background-color: $SI-color-blue;
   white-space: nowrap;
   box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.5);
   padding: 12px 0px;
