@@ -4,6 +4,14 @@
 
 layout: page
 permalink: /resources_tutorials/
+title: Tutorials
 ---
 
-tutorials will go here
+1. [Introduction to Deep Learning (Short Course)](https://smi2021emory.github.io/Program/docs/short-course.html/)
+===============
+Instructor: [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
+
+[Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
+
+[Slides](https://smi2021.scientistcafe.com/)
+
