@@ -4,9 +4,10 @@
 
 layout: page
 permalink: /events_workshops/
+title: Workshops
 ---
 
-NIMH Workshop on Advanced Statistical Methods and Data Visualizations
+[NIMH Workshop on Advanced Statistical Methods and Data Visualizations](https://www.nimh.nih.gov/news/events/2021/workshop-advanced-statistical-methods-and-dynamic-data-visualizations-for-mental-health-studies)
 ==================
 <b>June 28--30, 2021 | Virtual</b>
 
