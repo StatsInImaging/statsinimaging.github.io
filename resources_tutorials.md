@@ -7,15 +7,31 @@ permalink: /resources_tutorials/
 title: Tutorials
 ---
 
-[Introduction to Deep Learning (Short Course)](https://smi2021emory.github.io/Program/docs/short-course.html/)
+[A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
 ===============
-<b>Instructor:</b> [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
-- [Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
-- [Slides](https://smi2021.scientistcafe.com/)
+<b>April 6, 2023 | Ann Arbor, MI</b>
+
+<b>Instructor(s):</b> [Julia Wrobel](http://juliawrobel.com/) (Colorado School of Public Health)
+- [Website](http://juliawrobel.com/MI_tutorial/)
 
 <hr style="border:1px solid #DEDEDE">
 
-[A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
+[iftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)]
+(https://github.com/damondpham/ciftiTools-demo-SMI-2022) 
 ===============
-<b>Instructor:</b> [Julia Wrobel](http://juliawrobel.com/) (Colorado School of Public Health)
-- [Website](http://juliawrobel.com/MI_tutorial/)
+<b>May 25, 2022 | Nashville, TN</b>
+
+<b>Instructor(s):</b> [Damon Pham](https://damondpham.github.io/) (Indiana University) and Mandy Mejia (https://mandymejia.com/) (Indiana University)
+- [Slides](https://github.com/damondpham/ciftiTools-demo-SMI-2022/)
+
+[Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html)
+===============
+<b>May 17, 2021 | Atlanta, GA</b>
+
+<b>Instructor(s):</b> [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
+- [Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
+- [Slides](https://smi2021.scientistcafe.com/)
+
+
+
+
