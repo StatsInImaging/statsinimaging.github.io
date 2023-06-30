@@ -8,7 +8,7 @@ title: Videos
 ---
 
 #### SI Virtual Working Group
-<b>Presenter</b> [Ali Bilgin](https://bme.engineering.arizona.edu/faculty-staff/faculty/ali-bilgin) (University of Arizona)
+<b>Presenter:</b> [Ali Bilgin](https://bme.engineering.arizona.edu/faculty-staff/faculty/ali-bilgin) (University of Arizona)
 
 <i>March 14, 2023</i>
 
