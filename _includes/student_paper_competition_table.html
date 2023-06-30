@@ -7,6 +7,8 @@
 
 {% assign students_temp = site.data.student_paper_competitions | where_exp:"item", "item.Year == requested_year" %}
 {% assign students = students_temp | where_exp:"item", "item.Conference == requested_conference" %}
+{% assign winners = students | where_exp:"item", "item.Type == 'Winner'" %}
+{% assign runnerups = students | where_exp:"item", "item.Type == 'Runner-Up'" %}
 
 <table>
 <colgroup>
@@ -21,7 +23,20 @@
 <th>Paper Title</th>
 </tr>
 </thead>
-    {% for student in students %}
+    {% for student in winners %}
+            <tr>
+            <td>
+            {{ student.Firstname }} {{ student.Lastname }}
+            </td>
+            <td>
+            <b>{{ student.Type }}</b>
+            </td>
+            <td>
+            {{ student.Title }}
+            </td>
+            </tr>
+    {% endfor %}
+    {% for student in runnerups %}
             <tr>
             <td>
             {{ student.Firstname }} {{ student.Lastname }}

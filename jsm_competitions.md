@@ -6,16 +6,6 @@ permalink: /jsm_competitions/
 
 {% include student_paper_competition_table.html requested_year=2023 requested_conference="JSM" %}
 
-{% include student_paper_competition_table.html requested_year=2022 requested_conference="JSM" %}
-
-{% include student_paper_competition_table.html requested_year=2021 requested_conference="JSM" %}
-
-
-{% include student_paper_competition_table.html requested_year=2019 requested_conference="JSM" %}
-
-{% include student_paper_competition_table.html requested_year=2018 requested_conference="JSM" %}
-
-{% include student_paper_competition_table.html requested_year=2017 requested_conference="JSM" %}
-
-{% include student_paper_competition_table.html requested_year=2016 requested_conference="JSM" %}
-
+<p align=center>
+<button name="button" style="height:20%;width:40%" onclick="window.location.href='/jsm_competitions_all/'"><font size="3">See All JSM Competition Winners</font></button>
+</p>
