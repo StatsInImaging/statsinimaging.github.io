@@ -9,14 +9,17 @@
     {%- assign default_paths = site.pages | map: "path" -%}
     {%- assign page_paths = site.header_pages | default: default_paths -%}
     <a class="site-title" rel="author" href="{{ "/" | relative_url }}">{{ | escape }}</a>
-    <div class="SILogoOverlay">
-        <img src="/assets/ASASI_logo_transparent.png" alt="SIlogo">
-    </div>
 
     <div class="JoinSIOverlay">
         <button type="button" class="button1" onclick="window.location.href='https://www.amstat.org/membership';" style="height:25%; width:12%;">
              Renew/Join SI Section
         </button>
+    </div>
+
+    <div class="SILogoOverlay">
+        <a href="/home/">
+            <img src="/assets/ASASI_logo_transparent.png" alt="SIlogo">
+        </a>
     </div>
 
     {%- if page_paths -%}
