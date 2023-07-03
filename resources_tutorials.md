@@ -16,7 +16,7 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
-[iftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)](https://github.com/damondpham/ciftiTools-demo-SMI-2022/) 
+[ciftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)](https://github.com/damondpham/ciftiTools-demo-SMI-2022/) 
 ===============
 <i>May 25, 2022 | Nashville, TN</i>
 
