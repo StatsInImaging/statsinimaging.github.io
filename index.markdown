@@ -4,10 +4,9 @@
 title: ASA Statistics in Imaging (SI) Section
 
 layout: home
-permalink: /
-redirect_from: 
+permalink: 
+  - /
   - /home/
-  - /home.html
 ---
 
 
