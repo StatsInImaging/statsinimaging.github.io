@@ -1,3 +1,7 @@
+<head>
+    <link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
+</head>
+
 <p1>
   SI {{ include.requested_year }} Officers
 </p1>
@@ -6,15 +10,15 @@
 
 {% assign requested_year = include.requested_year %}
 {% assign yearly_officer_list = site.data.officers | where_exp:"item", "item.Years contains requested_year" %}
-<table>
+<table class="tableSI">
 <colgroup>
 <col width="70%" />
 <col width="30%" />
 </colgroup>
 <thead>
 <tr class="header">
-<th>Position</th>
-<th>Officer</th>
+<th class="headerSI">Position</th>
+<th class="headerSI">Officer</th>
 </tr>
 </thead>
 {% for position in position_list %}

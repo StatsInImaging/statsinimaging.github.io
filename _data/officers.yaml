@@ -36,8 +36,8 @@
 
 - Lastname: Crainiceanu
   Firstname: Ciprian
-  Years: [2022, 2021, 2016, 2015, 2014]
-  Positions: [Chair, Chair-Elect, Past-Chair, Chair, Chair-Elect]
+  Years: [2023, 2022, 2021, 2016, 2015, 2014]
+  Positions: [Past-Chair, Chair, Chair-Elect, Past-Chair, Chair, Chair-Elect]
   affil: Johns Hopkins University
   email: ccraini1@jhu.edu
 
@@ -230,7 +230,7 @@
   affil: University of Pennsylvania
   email: rshi@pennmedicine.upenn.edu
 
-- Lastname: Spencer
+- Lastname: Spencer<br> (Jan. 2023 - June 2023)
   Firstname: Daniel
   Years: [2023]
   Positions: [Publications Officer]
@@ -271,6 +271,13 @@
   Positions: [Publications Officer, Publications Officer, Publications Officer]
   affil: Drexel University
   email: fengqing.zhang@drexel.edu
+
+- Lastname: Zhang<br> (June 2023 - Dec. 2024)
+  Firstname: Panpan
+  Years: [2023]
+  Positions: [Publications Officer]
+  affil: Vanderbilt University
+  email: panpan.zhang@vumc.org
 
 - Lastname: Zhang
   Firstname: Tingting
