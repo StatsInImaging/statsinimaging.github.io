@@ -1,4 +1,18 @@
 [
+  {
+"JobLabel": "Job Submission 7/3/2023 14:48:06",
+"Organization": "Example College",
+"OrganizationInfo": "Example information about the college",
+"JobTitle": "Posting with less information",
+"JobDescription": "This is the job description which is mandatory",
+"MinQual": "these are the minimum qualifications which are mandatory",
+"PrefQual": "",
+"Salary": "",
+"ApplicationInstructions": "",
+"Deadline": "due eventually",
+"ContactPerson": "John",
+"ContactEmail": "see application"
+},
   {"JobLabel": "Job Submission 7/3/2023 14:39:14",
 "Organization": " University of Lorem Ipsum",
 "OrganizationInfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
@@ -11,19 +25,5 @@
 "Deadline": "1520",
 "ContactPerson": "Cicero",
 "ContactEmail": "test@email.edu"
-  },
-{
-  "title": "Job Submission 7/3/2023 13:36:03",
-  "Organization": "test json better printing",
-  "OrganizationInfo": "asdf",
-  "JobTitle": "asdf",
-  "JobDescription": "asdf",
-  "MinQual": "asdf",
-  "PrefQual": "asdf",
-  "Salary": "asdf",
-  "ApplicationInstructions": "asdf",
-  "Deadline": "asdf",
-  "ContactPerson": "asdf",
-  "ContactEmail": "asdf"
-}
+  }
 ]
