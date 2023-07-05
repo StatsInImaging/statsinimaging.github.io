@@ -6,5 +6,10 @@ layout: page
 permalink: /resources_home/
 ---
 
+<div class="tileContainerSI">
+    <button class="tileSI" onclick="window.location.href='/resources_jobs/'">Jobs</button>
+    <button class="tileSI" onclick="window.location.href='/resources_videos/'">Videos</button>
+    <button class="tileSI" onclick="window.location.href='/resources_tutorials/'">Tutorials</button>
+</div>
 
-home page for the resources section
+
