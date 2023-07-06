@@ -20,7 +20,7 @@ title: Tutorials
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 22, 2023 | Minneapolis, MN</i>
 
-<b>Instructor(s):</b> Nick Tustison (University of Virginia) and Brian Avants (University of Pennsylvania)
+<b>Instructor(s):</b> [Nick Tustison](https://med.virginia.edu/radiology-research/nick-tustison/) (University of Virginia) and [Brian Avants](http://stnava.github.io/) (University of Pennsylvania)
 - [Slides](https://gist.github.com/ntustison/12a656a5fc2f6f9c4494c88dc09c5621/)
 
 <hr style="border:1px solid #DEDEDE">
