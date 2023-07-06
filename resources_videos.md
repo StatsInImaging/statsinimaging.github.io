@@ -6,6 +6,14 @@ layout: page
 permalink: /resources_videos/
 title: Videos
 ---
+#### SI Virtual Working Group
+<b>Presenter:</b> [Simon Vandekar](https://www.vumc.org/biostatistics/person/simon-vandekar) (Vanderbilt University)
+
+<i>April 24, 2023</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=28ONxzKVYXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+<hr style="border:1px solid #DEDEDE">
 
 #### SI Virtual Working Group
 <b>Presenter:</b> [Ali Bilgin](https://bme.engineering.arizona.edu/faculty-staff/faculty/ali-bilgin) (University of Arizona)
@@ -24,6 +32,13 @@ title: Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gTLtOF3z3z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+<hr style="border:1px solid #DEDEDE">
 
+#### SI Virtual Working Group
+<b>Presenter:</b> [Shella Keilholz](https://sites.google.com/view/keilholz-lab/home) (Emory University/Georgia Tech)
+
+<i>February 17, 2023</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rr4W1CPIOwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
