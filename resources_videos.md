@@ -11,7 +11,7 @@ title: Videos
 
 <i>April 24, 2023</i>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=28ONxzKVYXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/28ONxzKVYXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 <hr style="border:1px solid #DEDEDE">
 
@@ -39,6 +39,6 @@ title: Videos
 
 <i>February 17, 2023</i>
 
-<iframe width="560" height="315" src="https://www.youtube.com/watch?v=Rr4W1CPIOwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rr4W1CPIOwo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 
