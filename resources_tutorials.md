@@ -7,6 +7,24 @@ permalink: /resources_tutorials/
 title: Tutorials
 ---
 
+[Introduction to the tidyverse and Quarto](https://drive.google.com/drive/folders/1XQLPW0ZAjSPR8xGZh9-se9exQ1_2mC8O/)
+===============
+<i><i class="fa fa-calendar" aria-hidden="true"></i> May 22, 2023 | Minneapolis, MN</i>
+
+<b>Instructor(s):</b> David Schneck (University of Minnesota)
+- [Slides](https://drive.google.com/drive/folders/1XQLPW0ZAjSPR8xGZh9-se9exQ1_2mC8O/)
+
+<hr style="border:1px solid #DEDEDE">
+
+[An Introduction to the ANTsX ecosystem through R](hhttps://gist.github.com/ntustison/12a656a5fc2f6f9c4494c88dc09c5621/)
+===============
+<i><i class="fa fa-calendar" aria-hidden="true"></i> May 22, 2023 | Minneapolis, MN</i>
+
+<b>Instructor(s):</b> Nick Tustison (University of Virginia) and Brian Avants (University of Pennsylvania)
+- [Slides](https://gist.github.com/ntustison/12a656a5fc2f6f9c4494c88dc09c5621/)
+
+<hr style="border:1px solid #DEDEDE">
+
 [A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> April 6, 2023 | Ann Arbor, MI</i>
@@ -29,7 +47,7 @@ title: Tutorials
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 17, 2021 | Atlanta, GA</i>
 
-<b>Instructor(s):</b> [Hui Lin](https://smi2021emory.github.io/Program/docs/short-course.html) (Shopify)
+<b>Instructor(s):</b> [Hui Lin](https://resume.scientistcafe.com/) (Google)
 - [Video recording](https://www.youtube.com/watch?v=5vNPm7Akp9U&list=PLwENUD1LkzXLXYGi5zItDMJLIxDF01WVw&index=2) 
 - [Slides](https://smi2021.scientistcafe.com/)
 
