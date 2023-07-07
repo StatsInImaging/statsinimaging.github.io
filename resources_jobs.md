@@ -21,7 +21,7 @@ permalink: /resources_jobs/
 </script>
 
 <p align=center>
-<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc6m-k3GxXb_f6301shiAnjMfsn5kAImYFKh04SDrfJ1V9FWQ/viewform?usp=sf_link'"><font size="3">Click here to submit a job</font></button>
+<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://docs.google.com/forms/d/e/1FAIpQLSc6m-k3GxXb_f6301shiAnjMfsn5kAImYFKh04SDrfJ1V9FWQ/viewform?usp=sf_link'"><font size="3">Post A Job</font></button>
 </p>
 
 {% for job in site.data.job_postings %}
