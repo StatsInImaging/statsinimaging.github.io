@@ -103,18 +103,24 @@ $on-laptop:        800px !default;
 }
 
 .tileSI {
-  background-color: $SI-color-blue;
-  border: none;
+  background-color: $SI-color-whitetext;
+  border-color: $SI-color-blue;
 box-shadow: 10px 5px 5px grey;
-  color: $SI-color-whitetext;
+  color: $SI-color-blue;
   text-align: center;
   text-decoration: none;
   display: inline-block;
-  font-size: 24px;
+  font-size: 32px;
   cursor: pointer;
   flex-basis: 30%;
   box-sizing: border-box;
   aspect-ratio: 1 / 1;
+}
+
+.tileSI:hover {
+  background-color: $SI-color-blue;
+  color: $SI-color-whitetext;
+  transition: 0.15s;
 }
 
 
