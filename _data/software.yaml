@@ -1,0 +1,22 @@
+---
+- SoftwareTitle: Neuroconductor
+  SoftwareLink: https://neuroconductor.org
+  SoftwareDesc: "Neuroconductor is an open-source platform for rapid testing and dissemination of reproducible computational imaging software. Based on the programming language R, Neuroconductor started with 51 inter-operable packages that cover multiple areas of imaging including visualization, data processing and storage, and statistical inference. Neuroconductor accepts new R package submissions, which are subject to a formal review and continuous automated testing."
+  SoftwareClass: [Neuroimaging]
+  SoftwareImageFile: software_img_neuroconductor.png
+
+- SoftwareTitle: Matlab Imaging Processing Toolbox
+  SoftwareLink: https://www.mathworks.com/products/image.html
+  SoftwareDesc: "Image Processing Toolbox provides a comprehensive set of reference-standard algorithms and workflow apps for image processing, analysis, visualization, and algorithm development. You can perform image segmentation, image enhancement, noise reduction, geometric transformations, and image registration using deep learning and traditional image processing techniques. The toolbox supports processing of 2D, 3D, and arbitrarily large images."
+  SoftwareClass: [General]
+  SoftwareImageFile: software_img_matlab.png
+
+- SoftwareTitle: Cancer Imaging Phenomics Toolkit (CaPTk)
+  SoftwareLink: https://www.med.upenn.edu/cbica/captk/
+  SoftwareDesc: "CaPTk is a software platform for analysis of radiographic cancer images, currently focusing on brain, breast, and lung cancer. CaPTk integrates advanced, validated tools performing various aspects of medical image analysis, that have been developed in the context of active clinical research studies and collaborations toward addressing real clinical needs. With emphasis given in its use as a very lightweight and efficient viewer, and with no prerequisites for substantial computational background, CaPTk aims to facilitate the swift translation of advanced computational algorithms into routine clinical quantification, analysis, decision making, and reporting workflow. Its long-term goal is providing widely used technology that leverages the value of advanced imaging analytics in cancer prediction, diagnosis and prognosis, as well as in better understanding the biological mechanisms of cancer development."
+  SoftwareClass: [Cancer]
+  SoftwareImageFile: software_img_captk.png
+
+
+
+
