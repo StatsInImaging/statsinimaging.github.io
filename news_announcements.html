@@ -17,13 +17,20 @@ permalink: /news_announcements/
     <h3>
       {{ post.title | escape }}
     </h3>
-    {%- if site.show_excerpts -%}
-    {{ post.excerpt }}
+    <!-- {{post.content | size}} -->
+    {%- if  post.content.size > 200 -%}
+    
+      {{ post.content | strip_html  |truncate: 200 }} 
+      <!-- {{ post.excerpt }} -->
+    
+      <a  href="{{ post.url | relative_url }}">
+        Read more
+      </a>
+    {% else %}
+      {{ post.content}} 
     {%- endif -%}
-    <a  href="{{ post.url | relative_url }}">
-      Read more
-  </a>
 </br>
+<hr style="border:1px solid #DEDEDE">
   </li>
   {%- endfor -%}
 </ul>
