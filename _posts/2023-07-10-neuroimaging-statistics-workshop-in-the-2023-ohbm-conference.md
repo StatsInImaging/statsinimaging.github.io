@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Neuroimaging Statistics Workshop in the 2023 OHBM conference
-date: 2023-07-10 14:52 +0800
+date: 2023-06-01 14:52 
 categories: conference
 ---
 

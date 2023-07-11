@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Special Issue: Data Science in the Brain Sciences'
-date: 2023-07-10 14:51 +0800
+date: 2023-06-02 14:51 
 categories: journal
 ---
 

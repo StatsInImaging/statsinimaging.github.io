@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023 Statistics in Imaging Section Business Meeting at JSM Toronto
-date: 2023-07-10 14:50 +0800
+date: 2023-06-15 14:50 
 categories: conference
 ---
 

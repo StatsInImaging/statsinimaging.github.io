@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 2023 SI Section Election Results
-date: 2023-07-10 14:51 +0800
+date: 2023-07-01 14:51 
 categories: SI
 ---
 
