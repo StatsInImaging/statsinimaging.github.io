@@ -25,7 +25,7 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
-[A Short Course on Multiplex Single-Cell Imaging in R](https://juliawrobel.com/MI_tutorial/)
+[A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> April 6, 2023 | Ann Arbor, MI</i>
 
@@ -43,7 +43,7 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
-[Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html/)
+[Introduction to Deep Learning (Short Course at SMI 2021)](http://smi2021emory.github.io/Program/docs/short-course.html/)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 17, 2021 | Atlanta, GA</i>
 

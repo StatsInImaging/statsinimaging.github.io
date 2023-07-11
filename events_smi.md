@@ -43,5 +43,5 @@ Past SMI Meetings
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: **University of Michigan**, Ann Arbor, MI
 
 <p align=center>
-<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https:/statsinimaging.github.io/smimap/map.html/'"><font size="3">SMI Footprints</font></button>
+<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://statsinimaging.github.io/smimap/map.html/'"><font size="3">SMI Footprints</font></button>
 </p>
