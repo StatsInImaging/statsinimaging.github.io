@@ -9,6 +9,16 @@
   Advisor: Qi Long and Li Shen
   Track: N/A
 
+- Lastname: Beer
+  Firstname: Joanne
+  Year: 2017
+  Conference: SMI
+  Type: Winner
+  Title: "Predicting Continuous Measures from Neuroimages: Incorporating Information About Functional Networks and Spatial Structure"
+  Affil: University of Pittsburgh
+  Advisor: Rob Krafty
+  Track: N/A
+
 - Lastname: Chen
   Firstname: Andrew
   Year: 2022
@@ -45,7 +55,7 @@
   Conference: JSM
   Type: Runner-Up
   Title: Correlation Tensor Decomposition and Its Application in Spatial Imaging Data 
-  Affil: University of Illinois, Urbana Champaign
+  Affil: "University of Illinois, Urbana Champaign"
   Advisor: Annie Qu
   Track: N/A
 
@@ -89,6 +99,16 @@
   Advisor: N/A
   Track: N/A
 
+- Lastname: Higgins
+  Firstname: Ixavier
+  Year: 2017
+  Conference: SMI
+  Type: Winner
+  Title: Penalized Estimation of Functional Brain Networks in the Presence of Anatomical Information
+  Affil: Emory University
+  Advisor: Ying Guo
+  Track: N/A
+
 - Lastname: Hu
   Firstname: Yifei
   Year: 2022
@@ -97,6 +117,16 @@
   Title: Weak Signal Inference Under Dependence and Sparsity with Application to fMRI Image Data 
   Affil: North Carolina State University
   Advisor: Jesse Jeng
+  Track: N/A
+
+- Lastname: Hu
+  Firstname: Menghan
+  Year: 2017
+  Conference: SMI
+  Type: Winner
+  Title: Experimental design in longitudinal MRI analysis for multiple sclerosis
+  Affil: North Carolina State University
+  Advisor: Ani Eloyan
   Track: N/A
 
 - Lastname: Hu
@@ -165,7 +195,7 @@
   Conference: SMI
   Type: Runner-Up
   Title: Tensor-variate Elliptically Contoured distributions with Application to Image Learning
-  Affil: N/A
+  Affil: Iowa State University
   Advisor: N/A
   Track: N/A
 
@@ -195,7 +225,7 @@
   Conference: SMI
   Type: Winner
   Title: Multi-task Learning with High-Dimensional Noisy Images
-  Affil: N/A
+  Affil: Emory University
   Advisor: N/A
   Track: N/A
 
@@ -225,7 +255,7 @@
   Conference: JSM
   Type: Runner-Up
   Title: Community Detection in a Group of Related Networks with Applications to Neuroimaging Studies
-  Affil: University of Illinois at Urbana-Champaign
+  Affil: "University of Illinois at Urbana-Champaign"
   Advisor: Yuguo Chen
   Track: N/A
 
@@ -235,7 +265,7 @@
   Conference: JSM
   Type: Runner-Up
   Title: Adaptive Mantel Test for Penalized Inference, with Applications to imaging genetics
-  Affil: University of California, Irvine
+  Affil: "University of California, Irvine"
   Advisor: Hernando Ombao and Zhaoxia Yu
   Track: N/A
 
@@ -285,8 +315,18 @@
   Conference: JSM
   Type: Runner-Up
   Title: Neuro-Hotnet - A Graph Theoretic Approach for Brain FC Estimation
-  Affil: Ani Eloyan
+  Affil: North Carolina State University
   Advisor: Jesse Jeng
+  Track: N/A
+
+- Lastname: Vandekar
+  Firstname: Simon
+  Year: 2017
+  Conference: SMI
+  Type: Winner
+  Title: "Powerful Permutation Tests for Neuroimaging using Voxel-wise Transformations"
+  Affil: University of Pennsylvania
+  Advisor: Taki Shinohara
   Track: N/A
 
 - Lastname: Wang
@@ -305,7 +345,7 @@
   Conference: SMI
   Type: Winner
   Title: Heterogeneity Analysis on Multi-state Brain Functional Connectivity and adolescent neurocognition
-  Affil: N/A
+  Affil: Yale
   Advisor: N/A
   Track: N/A
 
@@ -385,7 +425,7 @@
   Conference: SMI
   Type: Runner-Up
   Title: Bayesian Image-on-scalar Regression with Spatial Global-local Spike & Slab Prior
-  Affil: N/A
+  Affil: Rice University
   Advisor: N/A
   Track: N/A
 
@@ -395,7 +435,7 @@
   Conference: SMI
   Type: Runner-Up
   Title: A structured multivariate approach for removal of latent batch effects
-  Affil: N/A
+  Affil: University of Toronto
   Advisor: N/A
   Track: N/A
 

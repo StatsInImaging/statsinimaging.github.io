@@ -72,7 +72,7 @@ $on-laptop:        800px !default;
 }
 
 .buttonSIinverted {
-  background-color: SI-color-whitetext;
+  background-color: $SI-color-whitetext;
   border: none;
   color: $SI-color-blue;
   padding: 15px 32px;
@@ -80,7 +80,58 @@ $on-laptop:        800px !default;
   text-decoration: none;
   display: inline-block;
   font-size: 16px;
+  box-shadow: 10px 5px 5px $SI-color-whitetext;
 }
+
+
+
+
+.tileContainerSI {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  width: 100%;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: auto;
+  margin-bottom: auto;
+  justify-content: space-around;
+  min-height: 33vh;
+  align-content: space-between;
+  row-gap: 15px;
+}
+
+.tileContainerSI {
+  min-height: 33vh;
+}
+
+.container>button {
+  flex: 0 50%;
+}
+
+.tileSI {
+  background-color: $SI-color-whitetext;
+  border-color: $SI-color-blue;
+box-shadow: 10px 5px 5px grey;
+  color: $SI-color-blue;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 32px;
+  cursor: pointer;
+  flex-basis: 30%;
+  box-sizing: border-box;
+  aspect-ratio: 1 / 1;
+}
+
+.tileSI:hover {
+  background-color: $SI-color-blue;
+  color: $SI-color-whitetext;
+  transition: 0.15s;
+}
+
+
 
 // SI Table Styles
 .tableSI {
@@ -165,10 +216,11 @@ $on-laptop:        800px !default;
   margin: auto;
   z-index: 9;
   position: absolute;
-  width: 95vw;
+  width: 40vw;
   height: 20vh;
   align-items: center;
-  justify-content: right;
+  justify-content: center;
+  margin-left: 70vw;
 }
 
 .site-nav2 {
