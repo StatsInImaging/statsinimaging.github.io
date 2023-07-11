@@ -43,7 +43,7 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
-[Introduction to Deep Learning (Short Course at SMI 2021)](http://smi2021emory.github.io/Program/docs/short-course.html/)
+[Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html/)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 17, 2021 | Atlanta, GA</i>
 
