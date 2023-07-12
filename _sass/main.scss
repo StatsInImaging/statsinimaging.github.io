@@ -71,6 +71,11 @@ $on-laptop:        800px !default;
   cursor: pointer;
 }
 
+.buttonSI:hover {
+  background-color: $SI-color-whitetext;
+  color: $SI-color-blue;
+}
+
 .buttonSIinverted {
   background-color: $SI-color-whitetext;
   border: none;
@@ -82,9 +87,6 @@ $on-laptop:        800px !default;
   font-size: 16px;
   box-shadow: 10px 5px 5px $SI-color-whitetext;
 }
-
-
-
 
 .tileContainerSI {
   display: flex;
