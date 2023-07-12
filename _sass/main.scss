@@ -72,8 +72,9 @@ $on-laptop:        800px !default;
 }
 
 .buttonSI:hover {
-  background-color: $SI-color-whitetext;
-  color: $SI-color-blue;
+  background-color: $SI-color-blue;
+  color: #123f77;
+  border: 1px solid #ccc;
 }
 
 .buttonSIinverted {
