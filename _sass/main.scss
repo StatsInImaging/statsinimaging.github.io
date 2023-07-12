@@ -72,8 +72,9 @@ $on-laptop:        800px !default;
 }
 
 .buttonSI:hover {
-  background-color: $SI-color-blue;
-  color: #123f77;
+  background-color: #123f77; 
+  font-weight: 500;
+  color: $SI-color-whitetext;
   border: 1px solid #ccc;
 }
 
