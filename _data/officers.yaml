@@ -246,8 +246,15 @@
 
 - Lastname: Sweeney
   Firstname: Elizabeth
-  Years: [2023, 2022, 2021, 2020, 2019]
-  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Secretary, Secretary]
+  Years: [2022, 2021, 2020, 2019]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Secretary, Secretary]
+  affil: University of Pennsylvania
+  email: elizabeth.sweeney@pennmedicine.upenn.edu
+
+- Lastname: Sweeney <br> (Jan. 2023 - July 2023)<br> Yize Zhao<br> (July 2023 - Dec. 2024)
+  Firstname: Elizabeth
+  Years: [2023]
+  Positions: [Statistics in Imaging Section Representative]
   affil: University of Pennsylvania
   email: elizabeth.sweeney@pennmedicine.upenn.edu
 
