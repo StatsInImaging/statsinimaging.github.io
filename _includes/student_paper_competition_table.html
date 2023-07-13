@@ -19,12 +19,14 @@
 <col width="20%" />
 <col width="20%" />
 <col width="20%" />
-<col width="40%" />
+<col width="10%" />
+<col width="30%" />
 </colgroup>
 <thead>
 <tr>
 <th class="headerSI">Name</th>
 <th class="headerSI">Affiliation</th>
+<th class="headerSI">Advisor</th>
 <th class="headerSI">Status</th>
 <th class="headerSI">Paper Title</th>
 </tr>
@@ -36,6 +38,9 @@
             </td>
             <td>
             {{ student.Affil }}
+            </td>
+            <td>
+            {{ student.Advisor }}
             </td>
             <td>
             <b>{{ student.Type }}</b>
@@ -52,6 +57,9 @@
             </td>
             <td>
             {{ student.Affil }}
+            </td>
+            <td>
+            {{ student.Advisor }}
             </td>
             <td>
             <b>{{ student.Type }}</b>
