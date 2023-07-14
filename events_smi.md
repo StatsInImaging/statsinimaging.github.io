@@ -21,7 +21,7 @@ This Year's SMI Meeting
 ==============
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
 
-<img src = "https://statsinimaging.github.io/assets/SMI2023-flyer.png" width = "400" height = "300">
+<img src = "https://statsinimaging.github.io/assets/SMI2023-flyer.png" width = "640" height = "360">
 
 <hr style="border:1px solid #DEDEDE">
 
@@ -41,6 +41,8 @@ Past SMI Meetings
 <img src = "https://upload.wikimedia.org/wikipedia/en/thumb/4/45/University_of_Colorado_seal.svg/225px-University_of_Colorado_seal.svg.png" width = "50" height = "50">&nbsp;SMI 2016: **University of Corolado**, Boulder, CO
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: **University of Michigan**, Ann Arbor, MI
+
+<img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.png" width = "600" height = "188"><em>Group photo taken at SMI 2019 at UC Irvine</em>
 
 <p align=center>
 <button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://statsinimaging.github.io/smimap/map.html'"><font size="3">SMI Footprints</font></button>
