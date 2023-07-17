@@ -17,6 +17,8 @@ To be announced.
 
 <hr style="border:1px solid #DEDEDE">
 
+$$\\[1in]$$
+
 This Year's SMI Meeting
 ==============
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
@@ -24,6 +26,8 @@ This Year's SMI Meeting
 <img src = "https://statsinimaging.github.io/assets/SMI2023-flyer.png" width = "640" height = "360">
 
 <hr style="border:1px solid #DEDEDE">
+
+$$\\[1in]$$
 
 Past SMI Meetings
 ==============
