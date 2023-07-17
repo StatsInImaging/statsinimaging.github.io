@@ -17,7 +17,7 @@ To be announced.
 
 <hr style="border:1px solid #DEDEDE">
 
-$$\\[1in]$$
+&nbsp;
 
 This Year's SMI Meeting
 ==============
@@ -27,7 +27,7 @@ This Year's SMI Meeting
 
 <hr style="border:1px solid #DEDEDE">
 
-$$\\[1in]$$
+&nbsp;
 
 Past SMI Meetings
 ==============
