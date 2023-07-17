@@ -11,6 +11,8 @@ The Statistical Methods in Imaging (SMI) conference is an annual meeting of the 
 
 <hr style="border:1px solid #DEDEDE">
 
+&nbsp;
+
 Upcoming SMI Meetings
 ==============
 To be announced.

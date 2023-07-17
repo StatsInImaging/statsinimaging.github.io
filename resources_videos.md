@@ -13,7 +13,11 @@ title: Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/28ONxzKVYXk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+&nbsp;
+
 <hr style="border:1px solid #DEDEDE">
+
+&nbsp;
 
 #### SI Virtual Working Group
 <b>Presenter:</b> [Ali Bilgin](https://bme.engineering.arizona.edu/faculty-staff/faculty/ali-bilgin) (University of Arizona)
@@ -22,8 +26,11 @@ title: Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/uK4rCTjDR3o" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+&nbsp;
+
 <hr style="border:1px solid #DEDEDE">
 
+&nbsp;
 
 #### SI Virtual Working Group
 <b>Presenter:</b> [Ivo Dinov](https://nursing.umich.edu/faculty-staff/faculty/ivo-d-dinov) (University of Michigan)
@@ -32,7 +39,11 @@ title: Videos
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/gTLtOF3z3z4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
+&nbsp;
+
 <hr style="border:1px solid #DEDEDE">
+
+&nbsp;
 
 #### SI Virtual Working Group
 <b>Presenter:</b> [Shella Keilholz](https://sites.google.com/view/keilholz-lab/home) (Emory University/Georgia Tech)
