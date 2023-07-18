@@ -48,11 +48,13 @@ Past SMI Meetings
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: **University of Michigan**, Ann Arbor, MI
 
+<p align=center>
+<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://statsinimaging.github.io/smimap/map.html'"><font size="3">SMI Footprints</font></button>
+</p>
+
+&nbsp;
+
 <figure>
 <img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.jpeg" width = "900" height = "282" alt = "Group photo taken at SMI 2019 at UC Irvine">
 <figcaption>Group photo taken at SMI 2019 at UC Irvine</figcaption>
 </figure>
-
-<p align=center>
-<button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://statsinimaging.github.io/smimap/map.html'"><font size="3">SMI Footprints</font></button>
-</p>
