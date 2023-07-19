@@ -55,6 +55,6 @@ Past SMI Meetings
 &nbsp;
 
 <figure>
-<img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.jpeg" width = "840" height = "263.2" alt = "Group photo taken at SMI 2019 at UC Irvine">
+<img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.jpeg" width = "720" height = "225.6" alt = "Group photo taken at SMI 2019 at UC Irvine">
 <figcaption>Group photo taken at SMI 2019 at UC Irvine</figcaption>
 </figure>
