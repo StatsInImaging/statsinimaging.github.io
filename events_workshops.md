@@ -7,7 +7,7 @@ permalink: /events_workshops/
 title: Workshops
 ---
 
-[Neuroimaging Statistics Workshop in the 2023 OHBM conference](https://neurodatascience.github.io/events.html/)
+[Neuroimaging Statistics Workshop in the 2023 OHBM Conference](https://neurodatascience.github.io/events.html/)
 ==================
 <b>June 27, 2023 | Montréal, CA</b>
 
@@ -17,6 +17,19 @@ Professor Keith Worsley who was one of the most prominent imaging statisticians 
 keynote is delivered by Keith's student Dr. [Jonathan Taylor](https://statweb.stanford.edu/~jtaylo/). The workshop is passionate about 
 having a diverse set of speakers and including junior researchers as well. ASA Statistics in Imaging Section is a proud sponsor of the 
 event.
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+[Statistical Challenges for Complex Brain Signals and Images](https://www.birs.ca/events/2023/5-day-workshops/23w5030)
+==================
+<b>April 30--May 5, 2023 | Oaxaca, Mexico</b>
+
+The Casa Matemática Oaxaca (CMO) in Mexico and the Banff International Research Station for Mathematical Innovation and Discovery (BIRS) 
+in Banff hosts the "Statistical Challenges for Complex Brain Signals and Images" workshop in Oaxaca, from April 30 -- May 5, 2023. 
+This workshop focuses on developing novel statistical methodology to analyze brain signals, which is crucial to understanding normal 
+brain function and alterations associated with neurological and mental diseases.
 
 <hr style="border:1px solid #DEDEDE">
 
