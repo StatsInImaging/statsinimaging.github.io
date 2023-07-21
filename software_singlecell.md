@@ -7,7 +7,7 @@ permalink: /software_singlecell/
 <table>
   <tr>
     <td colspan="3"><b>Software Information</b></td>
-    <td colspan="6><b>Functionality</b></td>
+    <td colspan="6"><b>Functionality</b></td>
   </tr>
   <tr>
     <td><i>Name</i></td>
@@ -26,9 +26,31 @@ permalink: /software_singlecell/
     <td>R (Bioc)</td>
     <td>  </td>
     <td>  </td>
-    <td> [x] </td>
+    <td> &check; </td>
     <td>  </td>
     <td>  </td>
     <td>  </td>
+  </tr>
+  <tr>
+    <td>histoCAT</td>
+    <td>Computational histology topography cytometry analysis toolbox</td>
+    <td>MATLAB, GUI</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>Squidpy</td>
+    <td>Tool for the analysis and visualization of spatial molecular data</td>
+    <td>Python</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td> &check; </td>
   </tr>
 </table>
