@@ -5,7 +5,7 @@ permalink: /software_singlecell/
 ---
 
 <table>
-  <caption align="left">Wrobel J, Harris C, Vandekar S. Statistical Analysis of Multiplex Immunofluorescence and Immunohistochemistry Imaging Data. Methods in Molecular Biology 2023. 2629: 141--168.</caption>
+  <caption align="left">Wrobel J, Harris C, Vandekar S. Statistical Analysis of Multiplex Immunofluorescence and Immunohistochemistry Imaging Data. Methods in Molecular Biology 2023. 2629: 141--168. [DOI](https://doi.org/10.1007/978-1-0716-2986-4_8)</caption>
   <tr>
     <td colspan="3"><b>Software Information</b></td>
     <td colspan="6"><b>Functionality</b></td>
