@@ -53,4 +53,59 @@ permalink: /software_singlecell/
     <td>  </td>
     <td> &check; </td>
   </tr>
+  <tr>
+    <td>Giotto</td>
+    <td>Tools to process, analyze and visualize single-cell spatial expression data</td>
+    <td>R, GUI, Python depends</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>imcRTools</td>
+    <td>Analysis of imaging mass cytometry and other highly multiplexed data</td>
+    <td>R (Bioc)</td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>SVCA</td>
+    <td>Computational framework for the analysis of spatial molecular data</td>
+    <td>Python, R depends</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>  
+  <tr>
+    <td>SPIAT</td>
+    <td>Data processing, quality control, visualization, data analysis tools</td>
+    <td>R</td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>spatialTIME</td>
+    <td>Spatial analysis of mIF data</td>
+    <td>R</td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
 </table>
