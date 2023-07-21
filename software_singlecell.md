@@ -108,4 +108,93 @@ permalink: /software_singlecell/
     <td>  </td>
     <td> &check; </td>
   </tr>
+  <tr>
+    <td>mxnorm</td>
+    <td>Normalization techniques for mIF data</td>
+    <td>R, Python depends</td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>Seurat</td>
+    <td>Toolkit for QC, analysis, and exploration of single-cell omics data</td>
+    <td>R</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>QuPath</td>
+    <td>Powerful, flexible, extensible platform for bioimage analysis</td>
+    <td>GUI, Java</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td> &check; </td>
+  </tr>
+  <tr>
+    <td>HALO</td>
+    <td>Platform for quantitative tissue analysis in digital pathology</td>
+    <td>Closed source, GUI</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td> &check; </td>
+  </tr> 
+  <tr>
+    <td>inForm</td>
+    <td>Visualizing, segmenting, and phenotyping images from Vectra instruments</td>
+    <td>Closed source, GUI</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td> &check; </td>
+    <td> &check; </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>Cytomapper</td>
+    <td>Visualization of cell-level info obtained by multiplexed imaging cytometry</td>
+    <td>R (Bioc)</td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>CyLinter</td>
+    <td>Quality control software for multiplex microscopy</td>
+    <td>Python</td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+  <tr>
+    <td>CellProfiler</td>
+    <td>Interactive data analysis for highthroughput, image-based experiments</td>
+    <td>Python</td>
+    <td>  </td>
+    <td>  </td>
+    <td>  </td>
+    <td> &check; </td>
+    <td>  </td>
+    <td>  </td>
+  </tr>
+<caption>Wrobel J, Harris C, Vandekar S. Statistical Analysis of Multiplex Immunofluorescence and Immunohistochemistry Imaging Data. Methods in Molecular Biology 2023. 2629: 141--168.</caption>
 </table>
