@@ -4,7 +4,9 @@ title: "Single Cell Imaging Software"
 permalink: /software_singlecell/
 ---
 
-{% include display_software.html reqclass='Singlecell' %}
+| <td colspan=3>Software Information  <td colspan=6>Functionality
+| -
+| Name | Purpose | Language | Store | Viz | Norm | Seg | Ptype | Spatial
 
 
 
