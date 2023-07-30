@@ -51,6 +51,17 @@ title: Tutorials
 
 &nbsp;
 
+[HINT: A Matlab toolbox for hierarchical covariate-adjusted independent component analysis of fMRI data (Short Course at SMI 2022)](https://github.com/Emory-CBIS/HINT)
+===============
+<i><i class="fa fa-calendar" aria-hidden="true"></i> May 25, 2022 | Nashville, TN</i>
+
+<b>Instructor(s):</b> [Joshua Lukemire](https://github.com/JoshuaLukemire) (Emory University) and [Ying Guo](https://www.yingguo.us) (Emory University)
+- [Video Recording](https://youtu.be/lacy1bnKTYA)
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
 [Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 17, 2021 | Atlanta, GA</i>
