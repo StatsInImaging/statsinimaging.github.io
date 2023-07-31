@@ -13,10 +13,10 @@ The Statistics in Imaging (Virtual) Working Group is fairly informal and aims fo
 
 &nbsp;
 
-Website Working Group
+SI Website Working Group
 ==================
 
-The SI Website working group was established in 2023 to develop a new website for the ASA Statistics in Imaging Section. The working group consists of Panpan Zhang, Joshua Lukemire, Dayu Sun, Dan Spencer, and Ying Guo. The new website was released in August 2023.
+The SI Website working group was established in 2023 to develop the new website, [www.statsinimaging.org](www.statsinimaging.org), for the ASA Statistics in Imaging Section. The working group consists of Panpan Zhang, Joshua Lukemire, Dayu Sun, Dan Spencer, and Ying Guo. The new website was released in August 2023.
 
 
 
