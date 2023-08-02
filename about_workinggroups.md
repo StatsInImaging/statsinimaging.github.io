@@ -7,7 +7,7 @@ permalink: /about_workinggroups/
 Statistics in Imaging Virtual Working Group
 ==================
 
-The Statistics in Imaging (Virtual) Working Group is fairly informal and aims for regular discussions on a range of topics pertaining to imaging statistics.  Talks are about 15-20 minutes and can be on current, unfinished work, completed research, or a topic you'd just like to share with the community.  
+The Statistics in Imaging Virtual Working Group is an informal virtual monthly meeting that typically features one or more talks and opportunities for discussion. The Virtual Working Group was established in 2022. Its goals are to provide a forum for researchers to present both work in progress and completed work, to network between conferences, and to continue learning.  The date and time are determined by the availability of each month’s presenters.  Talks are recorded and made available for those not able to attend. The Virtual Working Group Leaders: Julia Fisher (2023-pres),  Dan Spencer (2022).   
 
 <hr style="border:1px solid #DEDEDE">
 
