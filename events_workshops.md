@@ -7,7 +7,7 @@ permalink: /events_workshops/
 title: Workshops
 ---
 
-[Neuroimaging Statistics Workshop in the 2023 OHBM Conference](https://neurodatascience.github.io/events.html/)
+[Neuroimaging Statistics Workshop in the 2023 OHBM Conference](https://neurodatascience.github.io/events)
 ==================
 <b>June 27, 2023 | Montréal, CA</b>
 
