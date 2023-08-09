@@ -154,8 +154,8 @@ box-shadow: 10px 5px 5px grey;
 .dropbtn {
   background-color: #3CB043;
   color: white;
-  padding: 16px;
-  font-size: 16px;
+  padding: 20px;
+  font-size: 20px;
   border: none;
   cursor: pointer;
 }
@@ -167,6 +167,8 @@ box-shadow: 10px 5px 5px grey;
 
 .dropdown a {
   color: #FFFFFF;
+  font-weight: bold;
+  padding-bottom: 12px;
 }
 
 .dropdown-content {
