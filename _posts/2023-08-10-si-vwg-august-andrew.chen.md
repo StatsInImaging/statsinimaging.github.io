@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Dr. [Andrew Chen](https://andrewanchen.github.io/) will present at the August SI Virtual Working Group.
+title: Dr. Andrew Chen will present at the August SI Virtual Working Group
 date: 2023-08-10 17:49 
 categories: Workshop
 ---

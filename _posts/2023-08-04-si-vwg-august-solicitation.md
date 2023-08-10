@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The SI Virtual Working Group is looking for an August speaker.
+title: The SI Virtual Working Group is looking for an August speaker
 date: 2023-08-04 18:01 
 categories: SI
 ---
