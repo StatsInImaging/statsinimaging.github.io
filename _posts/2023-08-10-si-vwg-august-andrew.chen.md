@@ -5,7 +5,7 @@ date: 2023-08-10 17:49
 categories: Workshop
 ---
 Dr. [Andrew Chen](https://andrewanchen.github.io/) (Medical University of South Carolina) will present at the August SI Virtual Working 
-Group Meetings (2023-2024) on <b>Thursday, August 17 at 3:00pm EST (2pm CST/1pm MST/12pm PST)<\b>.
+Group Meetings (2023-2024) on <b>Thursday, August 17 at 3:00pm EST (2pm CST/1pm MST/12pm PST)</b>.
 
 Zoom Link
 ==================
