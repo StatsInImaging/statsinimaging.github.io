@@ -156,8 +156,6 @@ box-shadow: 10px 5px 5px grey;
   color: white;
   padding: 16px;
   font-size: 16px;
-  height: 24px;
-  padding-bottom: 20px;
   border: none;
   cursor: pointer;
 }
@@ -190,11 +188,11 @@ box-shadow: 10px 5px 5px grey;
 
 .dropdown-content a:hover {
   background-color: #123f77;
+  font-weight: bold;
 }
 
 .dropdown:hover .dropdown-content {
   display: block;
-  font-weight: bold;
 }
 
 .dropdown:hover .dropbtn {
