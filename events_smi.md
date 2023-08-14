@@ -25,7 +25,7 @@ Upcoming SMI Meetings
 
 <img src = "https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-2.png" width = "50" height = "50">&nbsp;SMI 2025: **Rice University**, Houston, TX
 
-<img src = "https://statsinimaging.github.io/assets/Rice-hester.jpeg" width = "600" height = "400">
+<img src = "https://statsinimaging.github.io/assets/Rice-hester.jpg" width = "600" height = "400">
 
 <hr style="border:1px solid #DEDEDE">
 
