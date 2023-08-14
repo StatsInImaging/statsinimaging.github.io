@@ -23,6 +23,14 @@ Upcoming SMI Meetings
 
 &nbsp;
 
+<img src = "https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-2.png" width = "50" height = "50">&nbsp;SMI 2025: **Rice University**, Houston, TX
+
+<img src = "https://statsinimaging.github.io/assets/Rice-hester.jpeg" width = "600" height = "400">
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
 This Year's SMI Meeting
 ==============
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
