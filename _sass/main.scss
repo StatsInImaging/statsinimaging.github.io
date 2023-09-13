@@ -141,10 +141,13 @@ $on-laptop:        800px !default;
   }
 
   @include media-query($on-palm) {
+
+    // When hovering cursor over hamburger menu, it should become a pointer
     label[for="nav-trigger"] {
       cursor: pointer;
     }
 
+    // Appearance of the hamburger menu
     .menu-icon {
       display: block;
       float: right;
@@ -157,26 +160,6 @@ $on-laptop:        800px !default;
       > svg {
         fill: $grey-color-dark;
       }
-    }
-
-    input ~ .trigger {
-      clear: both;
-      display: none;
-    }
-
-    input:checked ~ .trigger {
-      display: block;
-      padding-bottom: 5px;
-    }
-
-    .page-link {
-      display: block;
-      padding: 5px 10px;
-
-      &:not(:last-child) {
-        margin-right: 0;
-      }
-      margin-left: 20px;
     }
   }
 }
