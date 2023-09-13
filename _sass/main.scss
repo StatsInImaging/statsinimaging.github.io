@@ -141,13 +141,15 @@ $on-laptop:        800px !default;
 }
 
  @include media-query($on-palm) {
-    position: absolute;
-    top: 9px;
-    right: $spacing-unit / 2;
-    background-color: $background-color;
-    border: 1px solid $grey-color-light;
-    border-radius: 5px;
-    text-align: right;
+    // display: flex;
+    // flex-direction: column;
+    // position: absolute;
+    // top: 9px;
+    // right: $spacing-unit / 2;
+    // background-color: $background-color;
+    // border: 1px solid $grey-color-light;
+    // border-radius: 5px;
+    // text-align: right;
 
     label[for="nav-trigger"] {
       display: block;
@@ -194,3 +196,31 @@ input:checked ~ .trigger {
   }
 }
 
+.nav-content {
+  width: 100%;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+
+  // When screen is small enough, change from row display to column display
+  @include media-query($on-palm) {
+    flex-direction: column;
+  }
+}
+
+/*
+  Navigation menu collapse/expand behavior
+
+  Only hide the navigation menu content if all of the following are true:
+    (A) the hamburger menu (checkbox input) has been "checked" via a click
+    (B) the window width is below some threshold
+
+  if (B) above is not included, then clicking the menu will collapse the dropdown content,
+  but subsequently resizing the window above the width threshold will NOT result in the navigation
+  content reappearing
+*/
+input[type=checkbox]:checked ~ div.nav-content {
+  @include media-query($on-palm) {
+    display: none;
+  }
+}
