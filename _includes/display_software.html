@@ -1,0 +1,53 @@
+<head>
+    <link rel="stylesheet" href="{{ site.site }}/assets/css/dropdownmenus.css">
+</head>
+
+{% assign reqclass = include.reqclass %}
+{% assign softwarelistall = site.data.software | where_exp:"item", "item.SoftwareClass contains reqclass" %}
+
+{% assign priority_list = "1|2|3|4|5|6|7|8|9" | split: "|" %}
+
+{% for ipriority in priority_list %}
+
+{% assign softwarelist = softwarelistall | where_exp:"item", "item.SoftwarePriority == ipriority" %}
+{% assign softwarelist = softwarelistall | where: 'SoftwarePriority', ipriority %}
+
+{% for isoftware in softwarelist %}
+
+<div class="poster"
+  style="border: 1px solid black; margin: 20px;padding: 10px; box-shadow: 5px 5px 4px 5px #888888;display: flex;">
+  <div>
+
+    {% assign fp = isoftware.SoftwareImageFile %}
+    {% assign file = site.static_files | where_exp: "file", "file.path contains fp" | first %}
+    {% if file %}
+      <div style="float: left; height: 100%; width: 27%; display: flex; align-items: center;">
+      <a target="_blank" href="{{ isoftware.SoftwareLink }}">
+        <img class="psimg" alt='{{ isoftware.SoftwareImageFile }}'
+          src="{{ site.site }}/assets/software_imgs/{{ isoftware.SoftwareImageFile }}"
+          onerror="if (this.src != '{{ site.site }}/assets/software_imgs/default.png') {
+            this.src = '{{ site.site }}/assets/software_imgs/default.png';
+            };">
+      </a>
+      </div>
+
+      <div style="float: right; width: 70%">
+        <p> <b> <a href="{{ isoftware.SoftwareLink }}">{{ isoftware.SoftwareTitle }}</a> </b> </p>
+        <p> {{ isoftware.SoftwareDesc }} </p>
+      </div>
+
+    {% else %}
+
+    <div style="float: right; width: 100%">
+        <p> <b> <a href="{{ isoftware.SoftwareLink }}">{{ isoftware.SoftwareTitle }}</a> </b> </p>
+        <p> {{ isoftware.SoftwareDesc }} </p>
+    </div>
+
+    {% endif %}
+
+  </div>
+</div>
+
+{% endfor %}
+
+{% endfor %}

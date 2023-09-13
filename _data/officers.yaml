@@ -36,8 +36,8 @@
 
 - Lastname: Crainiceanu
   Firstname: Ciprian
-  Years: [2022, 2021, 2016, 2015, 2014]
-  Positions: [Chair, Chair-Elect, Past-Chair, Chair, Chair-Elect]
+  Years: [2023, 2022, 2021, 2016, 2015, 2014]
+  Positions: [Past-Chair, Chair, Chair-Elect, Past-Chair, Chair, Chair-Elect]
   affil: Johns Hopkins University
   email: ccraini1@jhu.edu
 
@@ -230,7 +230,7 @@
   affil: University of Pennsylvania
   email: rshi@pennmedicine.upenn.edu
 
-- Lastname: Spencer
+- Lastname: Spencer<br> (Jan. 2023 - June 2023)<br> Panpan Zhang<br> (June 2023 - Dec. 2024)
   Firstname: Daniel
   Years: [2023]
   Positions: [Publications Officer]
@@ -246,8 +246,15 @@
 
 - Lastname: Sweeney
   Firstname: Elizabeth
-  Years: [2023, 2022, 2021, 2020, 2019]
-  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Secretary, Secretary]
+  Years: [2022, 2021, 2020, 2019]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Secretary, Secretary]
+  affil: University of Pennsylvania
+  email: elizabeth.sweeney@pennmedicine.upenn.edu
+
+- Lastname: Sweeney <br> (Jan. 2023 - July 2023)<br> Yize Zhao<br> (July 2023 - Dec. 2024)
+  Firstname: Elizabeth
+  Years: [2023]
+  Positions: [Statistics in Imaging Section Representative]
   affil: University of Pennsylvania
   email: elizabeth.sweeney@pennmedicine.upenn.edu
 

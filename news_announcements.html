@@ -7,21 +7,51 @@ permalink: /news_announcements/
 ---
 <h2 class="post-list-heading">{{ page.list_title | default: "News and Announcements" }}</h2>
 
+<script>
+  function showFun(pID, pbnID) {
+    var x = document.getElementById(pID);
+    var bntext = document.getElementById(pbnID);
+    if (x.style.display === "none") {
+      x.style.display = "block";
+      bntext.innerText = "Hide Description";
+    } else {
+      x.style.display = "none";
+      bntext.innerText = "Show Description";
+    }
+  }
+</script>
+
+<p style="font-family:verdana;" align=left>
+<b>Please email <a href = "mailto: statsinimaging@gmail.com">statsinimaging@gmail.com</a> to submit a news item.</b>
+</p>
+</br>
+
 <ul class="post-list">
   {%- for post in site.posts -%}
   <li>
     {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-    <span class="post-meta">{{ post.date | date: date_format }}</span>
+    <span class="post-meta"><i class="fa fa-calendar" aria-hidden="true"></i>  {{ post.date | date: date_format }}</span> 
+    <span class="post-meta" style="float:right;">Category: {{ post.categories }}</span>
+    
     <h3>
-      <a class="post-link" href="{{ post.url | relative_url }}">
-        {{ post.title | escape }}
-      </a>
+      {{ post.title | escape }}
     </h3>
-    {%- if site.show_excerpts -%}
-    {{ post.excerpt }}
+    <!-- {{post.content | size}} -->
+    {%- if  post.content.size > 200 -%}
+    
+      {{ post.content | strip_html  |truncate: 200 }} 
+      <!-- {{ post.excerpt }} -->
+    
+      <a  href="{{ post.url | relative_url }}">
+        Read more
+      </a>
+    {% else %}
+      {{ post.content}} 
     {%- endif -%}
+</br>
+<hr style="border:1px solid #DEDEDE">
   </li>
   {%- endfor -%}
 </ul>
 
-<p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p>
+<!-- <p class="rss-subscribe">subscribe <a href="{{ " /feed.xml" | relative_url }}">via RSS</a></p> -->
