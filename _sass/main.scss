@@ -57,6 +57,7 @@ $on-laptop:        800px !default;
   "minima/syntax-highlighting"
 ;
 
+
 // SI Pushbutton Styles
 .buttonSI {
   background-color: $SI-color-blue;
@@ -133,6 +134,8 @@ box-shadow: 10px 5px 5px grey;
   color: $SI-color-whitetext;
   transition: 0.15s;
 }
+
+
 
 // SI Table Styles
 .tableSI {
@@ -249,19 +252,29 @@ box-shadow: 10px 5px 5px grey;
     }
   }
 
-  .site-nav2 a {
-    color: #FFFFFF;
-  }
+.site-nav2 a {
+  color: #FFFFFF;
+}
 
-  @include media-query($on-palm) {
+ @include media-query($on-palm) {
+    position: absolute;
+    top: 9px;
+    right: $spacing-unit / 2;
+    background-color: $background-color;
+    border: 1px solid $grey-color-light;
+    border-radius: 5px;
+    text-align: right;
 
-    // When hovering cursor over hamburger menu, it should become a pointer
     label[for="nav-trigger"] {
+      display: block;
+      float: right;
+      width: 36px;
+      height: 36px;
+      z-index: 2;
       cursor: pointer;
     }
 
-    // Appearance of the hamburger menu
-    .menu-icon {
+.menu-icon {
       display: block;
       float: right;
       width: 36px;
@@ -274,34 +287,26 @@ box-shadow: 10px 5px 5px grey;
         fill: $grey-color-dark;
       }
     }
+
+    input ~ .trigger {
+      clear: both;
+      display: none;
+    }
+
+input:checked ~ .trigger {
+      display: block;
+      padding-bottom: 5px;
+    }
+
+    .page-link {
+      display: block;
+      padding: 5px 10px;
+
+      &:not(:last-child) {
+        margin-right: 0;
+      }
+      margin-left: 20px;
+    }
   }
 }
 
-.nav-content {
-  width: 100%;
-  display: flex;
-  flex-direction: row;
-  justify-content: space-around;
-
-  // When screen is small enough, change from row display to column display
-  @include media-query($on-palm) {
-    flex-direction: column;
-  }
-}
-
-/*
-  Navigation menu collapse/expand behavior
-
-  Only hide the navigation menu content if all of the following are true:
-    (A) the hamburger menu (checkbox input) has been "checked" via a click
-    (B) the window width is below some threshold
-
-  if (B) above is not included, then clicking the menu will collapse the dropdown content,
-  but subsequently resizing the window above the width threshold will NOT result in the navigation
-  content reappearing
-*/
-input[type=checkbox]:checked ~ div.nav-content {
-  @include media-query($on-palm) {
-    display: none;
-  }
-}
