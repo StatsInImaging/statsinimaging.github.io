@@ -27,6 +27,7 @@ method include
 * incorporating the spatial configuration of voxels; 
 * gene network information to model the regression coefficients;
 * the ability to pool information across visits to produce more reliable estimates. 
+
 This is made possible via structured tensor-based representation for the coefficient matrices that are modeled under suitable prior
 distributions incorporating gene network information. We develop an efficient Markov chain Monte Carlo (MCMC) to implement the proposed
 approach, and propose a joint credible regions approach for inferring significant features. Extensive simulation studies illustrate the
