@@ -5,7 +5,7 @@ date: 2023-10-15 18:20
 categories: Workshop
 ---
 Dr. [Suprateek Kundu](https://faculty.mdanderson.org/profiles/suprateek_kundu.html/) (MD Anderson Cancer Center) will present at the October SI Virtual Working 
-Group Meetings (2023-2024) on <b>Tuesday, October 24 at 1:30pm EST (12:30pm CST/11:30pm MST/10:30pm PST)</b>.
+Group Meetings (2023-2024) on <b>Tuesday, October 24 at 1:30pm EST (12:30pm CST/11:30am MST/10:30am PST)</b>.
 
 Zoom Link
 ==================
