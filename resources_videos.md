@@ -7,6 +7,19 @@ permalink: /resources_videos/
 title: Videos
 ---
 #### SI Virtual Working Group
+<b>Presenter:</b> [Julia Wrobel](http://juliawrobel.com/) (Emory University)
+
+<i>September 21, 2023</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/l6Ee-dlg06I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### SI Virtual Working Group
 <b>Presenter:</b> [Andrew Chen](https://andrewanchen.github.io) (Medical University of South Carolina)
 
 <i>August 17, 2023</i>
