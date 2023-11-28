@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for applications for the early career biostatistics faculty collaborating on mental health and aging
+title: Call for applications to the early career biostatistics program for collaborating on mental health and aging
 date: 2023-11-28 11:54 
 categories: Application
 ---
@@ -24,7 +24,7 @@ Key elements of ARI include: sustained mentoring focused on grant-writing and ca
 professional development, and an annual in-person Spring Retreat. More information about ARI can be found [here](https://www.mentalhealthandagingresearch.org/ari).
 
 A component of ARI, the Mentored Biostatistics Faculty Program, helps build the infrastructure of biostatistical collaborations by offering 
-up to <b>four</b> junior biostatistics faculty members the opportunity to participate. Consistent with the recommendations of the CTSA 
+<font color="red">**up to four**</font> junior biostatistics faculty members the opportunity to participate. Consistent with the recommendations of the CTSA 
 (Clinical and Translational Science Awards) biostatistics consortium, they will shadow senior ARI biostatisticians to observe and practice 
 working with early-career faculty in grant development.  Plus, they have opportunities to seek input from senior biostatistics faculty on 
 their collaborative roles and career development
@@ -40,7 +40,7 @@ burgeoning field of research.
 
 Travel expenses will be funded through ARI.  Questions about this opportunity can be directed to <a href="mailto:jane.pendergast@duke.edu">Jane Pendergast</a>.
 
-Applications are due via email (not through the ARI submission system) to <a href="mailto:Renee.L.Pepin@Dartmouth.edu">Renee Pepin</a> by <font color="red">Dec 22, 2024</font> and should include:
+Applications are due via email (not through the ARI submission system) to <a href="mailto:Renee.L.Pepin@Dartmouth.edu">Renee Pepin</a> by <font color="red">**Dec 22, 2024**</font> and should include:
 
 - A current CV
 - An NIH biosketch
