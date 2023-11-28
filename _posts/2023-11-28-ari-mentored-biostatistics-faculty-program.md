@@ -21,7 +21,7 @@ Academic Medicine, 2011; Venegas et al., American Journal of Geriatric Psychiatr
 transition successfully to independent investigators (e.g., R01 funding) and scientific leaders (e.g., mentoring, scientific service). The 
 program is supported by a network of senior and midcareer investigators and supports 16 early-career faculty (called Scholars) annually. 
 Key elements of ARI include: sustained mentoring focused on grant-writing and career development, biostatistical collaboration, 
-professional development, and an annual in-person Spring Retreat. More information about ARI can be found [here](https://www.mentalhealthandagingresearch.org/ari).
+professional development, and an annual in-person Spring Retreat. More information about ARI can be found [here](https://www.mentalhealthandagingresearch.org/ari/).
 
 A component of ARI, the Mentored Biostatistics Faculty Program, helps build the infrastructure of biostatistical collaborations by offering <font color="red"><b>up to four</b></font> junior biostatistics faculty members the opportunity to participate. Consistent with the recommendations of the CTSA 
 (Clinical and Translational Science Awards) biostatistics consortium, they will shadow senior ARI biostatisticians to observe and practice 
