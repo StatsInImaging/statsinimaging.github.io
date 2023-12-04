@@ -10,13 +10,13 @@ in Imaging Section. It aims to bring together investigators from students to est
 imaging, immunofluorescence imaging, and geospatial imaging.
 
 Student Paper Competition
-===========================
+--------------------------
 
 There will be two tracks for the student paper competition: 1) **Theory and Methods**, and 2) **Case Studies and Applications**. The selected winners for each track will be invited to present their papers in a session at the 
 conference. The first-place winner and runner-up for each track will receive a cash prize of $1,000 and $500, respectively.
 
 Eligibility
----------------------------
+========================
 
 To be **eligible** for the student paper competition, the student must satisfy the following criteria:
 
@@ -29,7 +29,7 @@ To be **eligible** for the student paper competition, the student must satisfy t
 4. Be able to present the paper at SMI 2024.
 
 Submission details
---------------------------
+=========================
 
 The deadline for submission to the student paper competition is **April 5, 2024**. Submission should be sent to <a href="mailto:yz125@iu.edu">Yi Zhao</a> with Subject Line either <u>SMI 2024: Theory and Methods</u> 
 or <u>SMI 2024: Case Studies and Applications</u> depending on the intended track of the submission, and the email should contain the following four attachments in PDF format:
