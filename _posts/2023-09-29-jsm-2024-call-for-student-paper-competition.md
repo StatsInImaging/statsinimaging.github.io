@@ -2,7 +2,7 @@
 layout: post
 title: Call for student paper competition on imaging data analysis for JSM 2024
 date: 2023-09-29 01:33 
-categories: Application
+categories: Competition
 ---
 
 The Statistics in Imaging Section of the ASA cordially invites submissions for a student paper competition for research on statistical 
