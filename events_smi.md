@@ -18,7 +18,9 @@ This Year's SMI Meeting
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" width = "50" height = "50">&nbsp;[SMI 2024](https://medicine.iu.edu/biostatistics/news-events/statistical-methods-in-imaging-conference): **Indiana University School of Medicine**, Indianapolis, IN
 
-<img src = "https://statsinimaging.github.io/assets/IUSM-campus.jpg" width = "564" height = "364">
+<a href="https://medicine.iu.edu/biostatistics/news-events/statistical-methods-in-imaging-conference">
+  <img src = "https://statsinimaging.github.io/assets/IUSM-campus.jpg" width = "564" height = "364">
+</a>
 
 <hr style="border:1px solid #DEDEDE">
 
