@@ -13,15 +13,20 @@ The Statistical Methods in Imaging (SMI) conference is an annual meeting of the 
 
 &nbsp;
 
-Upcoming SMI Meetings
+This Year's SMI Meeting
 ==============
-<img src = "https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" width = "50" height = "50">&nbsp;SMI 2024: **Indiana University School of Medicine**, Indianapolis, IN
+
+<img src = "https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" width = "50" height = "50">&nbsp;[SMI 2024](https://medicine.iu.edu/biostatistics/news-events/statistical-methods-in-imaging-conference): **Indiana University School of Medicine**, Indianapolis, IN
 
 <img src = "https://statsinimaging.github.io/assets/IUSM-campus.jpg" width = "564" height = "364">
 
 <hr style="border:1px solid #DEDEDE">
 
 &nbsp;
+
+
+Upcoming SMI Meetings
+==============
 
 <img src = "https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-2.png" width = "50" height = "50">&nbsp;SMI 2025: **Rice University**, Houston, TX
 
@@ -31,18 +36,9 @@ Upcoming SMI Meetings
 
 &nbsp;
 
-This Year's SMI Meeting
-==============
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
-
-<img src = "https://statsinimaging.github.io/assets/SMI2023-flyer.png" width = "640" height = "360">
-
-<hr style="border:1px solid #DEDEDE">
-
-&nbsp;
-
 Past SMI Meetings
 ==============
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vanderbilt_Commodores_%282022%29_logo.svg/225px-Vanderbilt_Commodores_%282022%29_logo.svg.png" width = "50" height = "50">&nbsp;[SMI 2022](https://www.vumc.org/biostatistics/smi/): **Vanderbilt University**, Nashville, TN
 
