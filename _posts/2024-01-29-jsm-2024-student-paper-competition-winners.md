@@ -15,7 +15,6 @@ All of the winners will be presenting at the 2024 Joint Statistical Meetings in 
   Advisor: Thomas Lee
 
  
-
 #### Runner-up Awards (alphabetical order):
 
 * Taehyo Kim, New York University
@@ -33,3 +32,7 @@ All of the winners will be presenting at the 2024 Joint Statistical Meetings in 
 * Yuan Zhong, University of Michigan
   Paper title: Deep kernel learning based Gaussian processes for Bayesian image regression analysis
   Advisor: Jian Kang
+
+We extend our heartfelt gratitude to the award committee members - Lloyd Elliott, Chao Huang, Eardi Lila, Michelle Miranda, 
+Jun Young Park, Simon Vandekar, Sarah M. Weinstein, Shan Yu, Xinyi Zhang, and Zhengwu Zhang - for their dedicated time, effort and 
+judgment in the selection process.
