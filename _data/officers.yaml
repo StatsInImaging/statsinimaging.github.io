@@ -55,6 +55,13 @@
   affil: RAND Corporation
   email: bonnieg@rand.org
 
+- Lastname: Guindani
+  Firstname: Michele
+  Years: [2024]
+  Positions: [Chair-Elect]
+  affil: University of California, Los Angeles
+  email: mguindani@g.ucla.edu
+
 - Lastname: Guo
   Firstname: Ying
   Years: [2024, 2023, 2022, 2017, 2016]
@@ -89,6 +96,13 @@
   Positions: [Program Chair, Program Chair-Elect]
   affil: University of Michigan
   email: jiankang@umich.edu
+
+- Lastname: Kong
+  Firstname: Dehan
+  Years: [2024]
+  Positions: [Program Chair-Elect]
+  affil: University of Toronto
+  email: dehan.kong@utoronto.ca
 
 - Lastname: Kong
   Firstname: Linglong
