@@ -20,6 +20,19 @@ title: Videos
 &nbsp;
 
 #### SI Virtual Working Group
+<b>Presenter:</b> [Superateek Kundu](https://sites.google.com/view/suprateek/home) (MD Anderson Cancer Center)
+
+<i>October 28, 2023</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/MuaPd56Ine8" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### SI Virtual Working Group
 <b>Presenter:</b> [Julia Wrobel](http://juliawrobel.com/) (Emory University)
 
 <i>September 21, 2023</i>
