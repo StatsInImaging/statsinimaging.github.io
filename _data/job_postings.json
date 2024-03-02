@@ -13,4 +13,23 @@
 "ContactPerson": "Seonjoo Lee",
 "ContactEmail": "see https://nyspi.applicantpro.com/jobs/"
 }
+
+{
+"JobLabel": "Job Submission 3/1/2024 9:59:23",
+"Organization": "Department of Statistics, Texas A&M University",
+"OrganizationInfo": "https://stat.tamu.edu/",
+"JobTitle": "Postdoctoral Research Associate in Bayesian Statistics",
+"JobDescription": "Dr. Rajarshi Guhaniyogi (Texas A&M) and Dr. Aaron Wolfe Scheffler (UC San Francisco) are seeking a postdoctoral research associate position at the Department of Statistics at Texas A&M University (starting as early as May 2024) for a National Institutes of Health (NIH)-funded research program. The research is related to one or more of the following areas:
+1. Bayesian learning with heterogeneous objects (e.g., tensor, functional data); 2. Bayesian interpretable deep learning with heterogeneous objects; 3. Distributed Bayesian computation and Federated Learning with Gaussian processes and their variants; 4. Data sketching with random sketching matrices for efficient Bayesian inference with massive structured data.
+The details of some of the recent work in aforementioned directions can be found on the websites of the PIs (https://sites.google.com/view/rajguhaniyogi/home?authuser=0 and https://aaron-scheffler.github.io/). The postdoctoral scholar will have the opportunity if desired to directly work with leading neuroscientists at UC San Francisco Memory and Aging Center, who are also part of the NIH program, including world renowned experts on Alzheimer's disease. 
+The position is crafted as a career-building opportunity for a junior scholar, emphasizing the development of a research program. The postdoc will be trained in conducting and presenting research, building regular collaboration with the leading biostatisticians and neuroscientists, publishing papers in methodology (and applications as desired), and creating software for wide dissemination of the research. The postdoc will be offered the mentored opportunity to write future NIH proposals with the PIs and their collaborators.",
+"MinQual": "Doctorate in Statistics, Biostatistics, Computer Science, or related field required (at time of appointment). Expertise and interest in at least one of the research areas listed above.",
+"PrefQual": "",
+"Salary": "Highly competitive",
+"ApplicationInstructions": "To apply, please email the following to Dr. Raj Guhaniyogi (rajguhaniyogi@tamu.edu) and Dr. Aaron Scheffler (Aaron.Scheffler@ucsf.edu) with the subject line 'Bayes Stat Postdoc': 
+1. Most recent CV; 2. A writing sample (e.g., a published or an arxiv paper); 3. Contact information for 2-3 references.",
+"Deadline": "4/30/2024",
+"ContactPerson": "Dr. Raj Guhaniyogi",
+"ContactEmail": "rajguhaniyogi@tamu.edu"
+}
 ]
