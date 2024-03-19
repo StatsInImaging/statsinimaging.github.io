@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Dr. Dianne Petterson will present at the March SI Virtual Working Group
-date: 2024-02-15 19:44 
+date: 2024-03-18 21:00 
 categories: Workshop
 ---
 Dr. [Dianne Petterson](https://bio5.org/people/dianne-k-patterson/) (Univerity of Arizona) will present at the March SI Virtual Working 
