@@ -7,6 +7,32 @@ permalink: /resources_videos/
 title: Videos
 ---
 #### SI Virtual Working Group
+<b>Presenter:</b> [Syed Ejaz Ahmed](https://brocku.ca/mathematics-science/mathematics/directory/syed-ejaz-ahmed/) (Brock University)
+
+<i>February 28, 2024</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/eB5NRsQ0BK0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### SI Virtual Working Group
+<b>Presenter:</b> [John Kornak](https://profiles.ucsf.edu/john.kornak/) (UCSF)
+
+<i>January 25, 2024</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/H_15kZOsL8Q" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### SI Virtual Working Group
 <b>Presenter:</b> [Yaotian Wang](https://yaotian-wang.github.io/) (Emory University)
 
 <i>November 28, 2023</i>
