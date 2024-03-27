@@ -26,5 +26,19 @@
 "Deadline": "4/30/2024",
 "ContactPerson": "Dr. Raj Guhaniyogi",
 "ContactEmail": "rajguhaniyogi@tamu.edu"
+},
+  {
+"JobLabel": "Job Submission 3/25/2024 23:16:00",
+"Organization": "School of Medicine, University of Maryland",
+"OrganizationInfo": "Maryland Psychiatric Research Center, The University of Maryland Institute for Health Computing (UM-IHC), University of Maryland, School of Medicine",
+"JobTitle": "Postdoctoral Researcher",
+"JobDescription": "University of Maryland, School of Medicine is recruiting a Postdoctoral Fellow in the field of biostatistics. The candidate will work closely with Dr. Shuo Chen and faculty members from University of Maryland School of Medicine and University of Maryland, College Park on research duties: Developing new statistical methods to model longitudinally measured multimodal neuroimaging data, omics data, and genetics data. Developing and applying quantitative approach to identify interactive relationships between various imaging modalities and omics during aging and development. Implementing computationally intensive algorithms on large analysis. Developing causal inference models to identify genetic and environmental risk factors (e.g., substance use) to modify developing and aging trajectories of brain imaging measures and other phenotypes. Developing data integration methods to combine multiple massive datasets (UKBB, HCP, ENIGMA, and etc) and local trials and observational studies. Drafting manuscripts and delivering presentations.",
+"MinQual": "Education: A Ph.D. degree in a quantitative field such as statistics, biostatistics, bioinformatics, computational biology, human genetics, computer science, or a closely related area is required. Experience: Demonstrated experience in strong optimization computational skills, proficiency in one of the programming languages R, Matlab, and Python, and expertise in high-performance clusters are required.",
+"PrefQual": "",
+"Salary": "",
+"ApplicationInstructions": "",
+"Deadline": "5/31/2024",
+"ContactPerson": "Shuo Chen",
+"ContactEmail": "shuochen@som.umaryland.edu"
 }
 ]
