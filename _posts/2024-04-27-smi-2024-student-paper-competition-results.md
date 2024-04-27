@@ -36,11 +36,11 @@ Disentangled adversarial flow for multi-source learning
 
 Assessment of glioblastoma multiforme tumor heterogeneity via MRI-derived shape and intensity features
 
-On *May 29th, from 1:10 to 2:40 p.m.*, you will have the opportunity to hear the awarded students present their research during the SMI 2024 conference at Indianapolish.
+On *May 29th, from 1:10 to 2:40 p.m.*, you will have the opportunity to hear the awarded students present their research during the SMI 2024 conference at Indianapolis.
 
 Congratulations to these four students for their remarkable achievements!
 
-We have a relatively large number of submission this year. 
+We have a relatively large number of submissions this year. 
 The success of this competition is largely attributable to the dedication and hard work of our reviewers, whose contributions are invaluable. We would like to express our gratitude to the following reviewers:
 
 - Benjamin Risk, Emory University
