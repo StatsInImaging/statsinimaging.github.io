@@ -1,0 +1,41 @@
+---
+layout: post
+title: Graduate Students will present at the April SI Virtual Working Group
+date: 2024-04-22 11:15 
+categories: Workshop
+---
+Several graduate students will present at the April SI Virtual Working Group Meetings (2023-2024) on 
+<b>Wednesday, April 24 at 1:00pm EST (12:00pm CST/11:00am MST/10:00am PST)</b>.
+
+Zoom Link
+==================
+[arizona.zoom.us/j/81077429723](arizona.zoom.us/j/81077429723)
+
+
+Speaker 1
+==================
+- Presenter: Kan Keeratimahat
+- Affiliation: NeuroImaging Statistics Oxford (NISOx), Big Data Institute, Nuffield Department of Population Health, the University of Oxford
+- Title: Scalable Gaussian Process Neural Network with application to Neuroimaging Data
+- Abstract: Scalar-on-image regression, modelling a univariate outcome per subject given image data, is a core machine learning task in neuroimaging but remains a challenge due to the high-dimensional, heterogeneous nature of the brain image data. While such prediction tasks must combine information from across the brain, conventional approaches neglect the complex spatial dependence and potential for nonlinear association. We propose a Bayesian framework using a Gaussian Process-induced neural network that captures nonlinear associations while using spatial smoothness constraints to produce a biologically plausible network structure. While Bayesian approaches can be computational intensive, our approach uses low-rank projections and stochastic learning to handle big imaging data as well as Bayesian conjugate updates to avoid doing expensive parameter grid searches, while allowing the parameter distributions to be adaptive to the data. In addition, we apply Langevin Dynamics on the trained neural network to acquire the full posterior distribution for our parameters and the corresponding posterior predictive distributions. This gives our model the ability to quantify the uncertainty of individual predictions which is desirable yet uncommon in regular machine learning techniques.
+
+Speaker 2
+==================
+- Presenter: Federica Zoe Ricci
+- Affiliation: University of California Irvine, USA
+- Title: A Bayesian model for clustering subjects and measurements with application to brain imaging studies
+- Abstract: We consider the problem of jointly analyzing multivariate time series collected on multiple subjects, with the goal of identifying groups of subjects exhibiting similar trends in their recorded measurements over time as well as time-varying groups of associated measurements. This is useful in many neuroscience applications, for example for studying how the association of signals from different brain regions changes over the course of a neuroimaging experiment. To this end, we propose a Bayesian model for temporal biclustering featuring nested partitions, where a time-invariant partition of subjects induces a time-varying partition of measurements. Our approach allows for data-driven determination of the number of subject and measurement clusters as well as estimation of the number and location of changepoints in measurement partitions. On our motivating applications to functional magnetic resonance imaging and electroencephalogram experiments, results indicate that the proposed model can combine information from potentially many subjects to discover few, interpretable, dynamic patterns.
+
+Speaker 3
+==================
+- Presenter: Subrata Pal
+- Affiliation: Iowa State University, USA
+- Title: ToTTR: Tensor-on-Tensor Times Series Regression for Integrated One-step functional MR Imaging analysis
+- Abstract: A functional Magnetic Resonance Imaging (fMRI) activation detection experiment yields a massively structured array- or tensor-variate dataset that is to be analyzed with respect to a set of time-varying stimuli and/or other covariates. The conventional approach employs a two-stage analysis, first fitting a regression time series on the time series data individually at each voxel, thereby reducing each voxel's time series data to a single statistic, and then following it with a second-stage analysis that incorporates spatial context in detecting the activation regions. We propose a holistic but practical one-step tensor-variate regression modeling of the entire time series dataset that uses low-rank-tensor decompositions on the regression parameters and Kronecker separable formats for the covariance matrices of the error arrays. Our approach obtains maximum likelihood estimators via block relaxation and derives asymptotic distributions for inference. Performance on simulation studies and a Flanker task dataset demonstrate that our approach can reliably identify cerebral regions that are significantly activated, more than the current two-stage setup.
+
+Speaker 4
+==================
+- Presenter: Anisha Das
+- Affiliation: Florida State University, USA
+- Title: Advanced Statistical Methods in Imaging Genetics Studies
+- Abstract: Imaging genetics is an integrated research method that uses neuroimaging and genetics to assess the impact of genetic variation on brain function and structure. The genome-wide association studies (GWAS) is commonly used for the discovery of risk genes for psychiatric disorders and a strategy for characterizing the neural systems affected by risk gene variants to elucidate quantitative and mechanistic aspects of brain function implicated in psychiatric disease. Although GWAS has been very successful in recent large-scale mental health and aging studies, there are several challenges due to the complex data structures including (i) genetic heritabilities in twin studies; (ii) imaging phenotypes from non-Euclidean space; (iii) gene-brain-cognition pathway detection with high-dimensional mediators; (iv) and unknown network among top significant genetic variants in GWAS studies. Here we develop some imaging genetics tools that can identify the relationships among clinical, genetic, imaging, and neurological information while handling all the challenges mentioned above. First of all, we develop a computationally efficient multi-scale imaging genetics framework for twin studies, which comprises of information on monozygotic and dizygotic twins as well as unrelated singletons. First, the twin data is split into two groups using a specific sampling strategy. Then, a multivariate ACE model, a statistical genetic model aiming to partition the multivariate phenotypic variance into three categories: additive genetic variance (A), common (or shared) environmental factors (C), and specific (or nonshared) environmental factors plus measurement error (E), is executed to obtain the dynamic heritabilities and the association between a given genetic variant and behavioral responses. To obtain better accuracy, the GWAS analysis is then performed on the twins' brain imaging phenotypes that gives us much better understanding about the significant variants and their relation with brain connectomes. Next, we develop a multi-scale genome-wide mediation analysis to figure out the causal relationship between human traits and genetic exposures (i.e., polygenic risk scores calculated based on the significant genotypes obtained from this multi-scale twin GWAS analysis) with indirect effects mediated by multi-scale brain connectome features. Further, we also propose a functional data analysis framework to detect the underlying network of genetic variants that significantly affect human brain corpus callosum (CC) contour shape alterations. We first extract the elastic shape representations from 2D CC contour data, which can be treated as functional data from the linear Hilbert space. Then, we consider the functional GWAS framework to detect (or screen) the genetic variants that are significantly related to the 2D CC shape phenotypes, which particularly includes two steps: (i) a multivariate varying coefficient model and (ii) a global sure independence screening mechanism. Finally, we develop a functional hybrid factor regression model to discover the network among all the detected significant genetic variants.

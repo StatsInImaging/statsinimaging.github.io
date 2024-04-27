@@ -11,22 +11,36 @@ The Statistical Methods in Imaging (SMI) conference is an annual meeting of the 
 
 <hr style="border:1px solid #DEDEDE">
 
-Upcoming SMI Meetings
-==============
-To be announced.
-
-<hr style="border:1px solid #DEDEDE">
+&nbsp;
 
 This Year's SMI Meeting
 ==============
-<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
 
-<img src = "https://statsinimaging.github.io/assets/SMI2023-flyer.png" width = "640" height = "360">
+<img src = "https://upload.wikimedia.org/wikipedia/commons/4/47/Indiana_Hoosiers_logo.svg" width = "50" height = "50">&nbsp;[SMI 2024](https://medicine.iu.edu/biostatistics/news-events/statistical-methods-in-imaging-conference): **Indiana University School of Medicine**, Indianapolis, IN
+
+<a href="https://medicine.iu.edu/biostatistics/news-events/statistical-methods-in-imaging-conference">
+  <img src = "https://statsinimaging.github.io/assets/IUSM-campus.jpg" width = "564" height = "364">
+</a>
 
 <hr style="border:1px solid #DEDEDE">
 
+&nbsp;
+
+
+Upcoming SMI Meetings
+==============
+
+<img src = "https://brand.rice.edu/sites/g/files/bxs2591/files/2019-08/190308_Rice_Mechanical_Brand_Standards_Logos-2.png" width = "50" height = "50">&nbsp;SMI 2025: **Rice University**, Houston, TX
+
+<img src = "https://statsinimaging.github.io/assets/Rice-hester.jpg" width = "600" height = "400">
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
 Past SMI Meetings
 ==============
+<img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/University_of_Minnesota_Logo.svg/768px-University_of_Minnesota_Logo.svg.png?20200121234844" width = "50" height = "50">&nbsp;[SMI 2023](https://www.sph.umn.edu/events-calendar/statistical-methods-in-imaging-2023/): **University of Minnesota**, Minneapolis, MN
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Vanderbilt_Commodores_%282022%29_logo.svg/225px-Vanderbilt_Commodores_%282022%29_logo.svg.png" width = "50" height = "50">&nbsp;[SMI 2022](https://www.vumc.org/biostatistics/smi/): **Vanderbilt University**, Nashville, TN
 
@@ -42,11 +56,13 @@ Past SMI Meetings
 
 <img src = "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Michigan_Wolverines_logo.svg/441px-Michigan_Wolverines_logo.svg.png" width = "50" height = "50">&nbsp;SMI 2015: **University of Michigan**, Ann Arbor, MI
 
-<figure>
-<img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.jpeg" width = "600" height = "188" alt = "Group photo taken at SMI 2019 at UC Irvine">
-<figcaption>Group photo taken at SMI 2019 at UC Irvine</figcaption>
-</figure>
-
 <p align=center>
 <button class="buttonSI" name="button" style="height:20%;width:40%" onclick="window.location.href='https://statsinimaging.github.io/smimap/map.html'"><font size="3">SMI Footprints</font></button>
 </p>
+
+&nbsp;
+
+<figure>
+<img src = "https://statsinimaging.github.io/assets/SMI2019-groupphoto.jpeg" width = "720" height = "225.6" alt = "Group photo taken at SMI 2019 at UC Irvine">
+<figcaption>Group photo taken at SMI 2019 at UC Irvine</figcaption>
+</figure>

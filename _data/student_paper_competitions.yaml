@@ -139,13 +139,23 @@
   Advisor: Ying Guo
   Track: N/A
 
+- Lastname: Kim
+  Firstname: Taehyo
+  Year: 2024
+  Conference: JSM
+  Type: Runner-Up
+  Title: "DeepFDR: A Deep Learning-based False Discovery Rate Control Method for Neuroimaging Data"
+  Affil: New York University
+  Advisor: Hai Shu
+  Track: N/A
+
 - Lastname: Lee
   Firstname: Eunjee
   Year: 2017
   Conference: JSM
   Type: Winner
   Title: Bayesian Low-rank Graph Regression Models for Mapping Human Connectome Data
-  Affil: "University of North Carolina, Chapel Hill"
+  Affil: University of North Carolina, Chapel Hill
   Advisor: Hongtu Zhu
   Track: N/A
 
@@ -197,6 +207,16 @@
   Title: Tensor-variate Elliptically Contoured distributions with Application to Image Learning
   Affil: Iowa State University
   Advisor: Ranjan Mitra
+  Track: N/A
+
+- Lastname: Lu
+  Firstname: Tong
+  Year: 2024
+  Conference: JSM
+  Type: Runner-Up
+  Title: Evaluating the effects of high-throughput structural neuroimaging predictors on whole-brain functional connectome outcomes via network-based vector-on-matrix regression
+  Affil: University of Maryland
+  Advisor: Shuo Chen
   Track: N/A
 
 - Lastname: Lukemire
@@ -276,7 +296,7 @@
   Type: Winner
   Title: Nonparametric motion adjustment in studies of functional connectivity alterations in autism spectrum disorder children
   Affil: Emory University
-  Advisor: Benjamin Risk
+  Advisor: David  Benkeser
   Track: Theory and Methods
 
 - Lastname: Redondo
@@ -351,6 +371,16 @@
   Track: N/A
 
 - Lastname: Wang
+  Firstname: Jue
+  Year: 2024
+  Conference: JSM
+  Type: Winner
+  Title: Uncertainty Quantification of Object Boundaries Extracted from Spatial Point Pattern Images
+  Affil: University of California, Davis
+  Advisor: Thomas Lee
+  Track: N/A
+
+- Lastname: Wang
   Firstname: Shiying
   Year: 2022
   Conference: SMI
@@ -378,6 +408,16 @@
   Title: A novel hierarchical independent component modeling framework with application to longitudinal fMRI study
   Affil: Emory University
   Advisor: Ying Guo
+  Track: N/A
+
+- Lastname: Wang
+  Firstname: Zihang
+  Year: 2024
+  Conference: JSM
+  Type: Runner-Up
+  Title: Sparse Independent Component Analysis with an Application to Cortical Surface fMRI Data in Autism
+  Affil: Emory University
+  Advisor: Benjamin Risk
   Track: N/A
 
 - Lastname: Weinstein
@@ -469,3 +509,14 @@
   Affil: The University of Texas MD Anderson Cancer Center
   Advisor: Jeffrey Morris and Veera Baladandayuthapani
   Track: N/A
+
+- Lastname: Zhong
+  Firstname: Yuan
+  Year: 2024
+  Conference: JSM
+  Type: Runner-Up
+  Title: Deep kernel learning based Gaussian processes for Bayesian image regression analysis
+  Affil: University of Michigan
+  Advisor: Jian Kang
+  Track: N/A
+

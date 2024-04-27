@@ -55,10 +55,17 @@
   affil: RAND Corporation
   email: bonnieg@rand.org
 
+- Lastname: Guindani
+  Firstname: Michele
+  Years: [2024]
+  Positions: [Chair-Elect]
+  affil: University of California, Los Angeles
+  email: mguindani@g.ucla.edu
+
 - Lastname: Guo
   Firstname: Ying
-  Years: [2023, 2022, 2017, 2016]
-  Positions: [Chair, Chair-Elect, Program Chair, Program Chair-Elect]
+  Years: [2024, 2023, 2022, 2017, 2016]
+  Positions: [Past-Chair, Chair, Chair-Elect, Program Chair, Program Chair-Elect]
   affil: Emory University
   email: yguo2@emory.edu
 
@@ -89,6 +96,13 @@
   Positions: [Program Chair, Program Chair-Elect]
   affil: University of Michigan
   email: jiankang@umich.edu
+
+- Lastname: Kong
+  Firstname: Dehan
+  Years: [2024]
+  Positions: [Program Chair-Elect]
+  affil: University of Toronto
+  email: dehan.kong@utoronto.ca
 
 - Lastname: Kong
   Firstname: Linglong
@@ -127,15 +141,15 @@
 
 - Lastname: Linn
   Firstname: Kristin
-  Years: [2023, 2023, 2022]
-  Positions: [Treasurer, Program Chair-Elect, Treasurer]
+  Years: [2024, 2023, 2023, 2022]
+  Positions: [Program Chair, Treasurer, Program Chair-Elect, Treasurer]
   affil: University of Pennsylvania
   email: klinn@pennmedicine.upenn.edu
 
 - Lastname: Lukemire
   Firstname: Joshua
-  Years: [2023]
-  Positions: [Secretary]
+  Years: [2024, 2023]
+  Positions: [Secretary, Secretary]
   affil: Emory University
   email: joshua.lukemire@emory.edu
 
@@ -183,8 +197,8 @@
 
 - Lastname: Peterson
   Firstname: Rick
-  Years: [2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
-  Positions: [Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison]
+  Years: [2024, 2023, 2022, 2021, 2020, 2019, 2018, 2017, 2016, 2015, 2014, 2013, 2012]
+  Positions: [Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison, Staff Liaison]
   affil: American Statistical Association
   email: rick@amstat.org
 
@@ -267,8 +281,8 @@
 
 - Lastname: Vannucci
   Firstname: Marina
-  Years: [2023]
-  Positions: [Chair-Elect]
+  Years: [2024, 2023]
+  Positions: [Chair, Chair-Elect]
   affil: Rice University
   email: marina@rice.edu
 
@@ -278,6 +292,13 @@
   Positions: [Publications Officer, Publications Officer, Publications Officer]
   affil: Drexel University
   email: fengqing.zhang@drexel.edu
+
+- Lastname: Zhang
+  Firstname: Panpan
+  Years: [2024]
+  Positions: [Publications Officer]
+  affil: Vanderbilt University
+  email: panpan.zhang@vumc.org
 
 - Lastname: Zhang
   Firstname: Tingting
@@ -292,6 +313,13 @@
   Positions: [Publications Officer, Publications Officer]
   affil: UNC Chapel Hill
   email: zhengwu_zhang@unc.edu
+
+- Lastname: Zhao
+  Firstname: Yize
+  Years: [2024]
+  Positions: [Statistics in Imaging Section Representative]
+  affil: Yale University
+  email: yize.zhao@yale.edu
 
 - Lastname: Zhu
   Firstname: Hongtu

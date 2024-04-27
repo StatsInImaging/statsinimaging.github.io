@@ -16,6 +16,8 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
+&nbsp;
+
 [An Introduction to the ANTsX ecosystem through R](https://gist.github.com/ntustison/12a656a5fc2f6f9c4494c88dc09c5621/)
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 22, 2023 | Minneapolis, MN</i>
@@ -24,6 +26,8 @@ title: Tutorials
 - [Slides](https://gist.github.com/ntustison/12a656a5fc2f6f9c4494c88dc09c5621/)
 
 <hr style="border:1px solid #DEDEDE">
+
+&nbsp;
 
 [A Short Course on Multiplex Single-Cell Imaging in R](http://juliawrobel.com/MI_tutorial/)
 ===============
@@ -34,6 +38,8 @@ title: Tutorials
 
 <hr style="border:1px solid #DEDEDE">
 
+&nbsp;
+
 [ciftiTools: A Package for Reading, Writing, Visualizing, and Manipulating CIFTI Files in R (Short Course at SMI 2022)](https://github.com/damondpham/ciftiTools-demo-SMI-2022/) 
 ===============
 <i><i class="fa fa-calendar" aria-hidden="true"></i> May 25, 2022 | Nashville, TN</i>
@@ -42,6 +48,19 @@ title: Tutorials
 - [Slides](https://github.com/damondpham/ciftiTools-demo-SMI-2022/)
 
 <hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+[HINT: A Matlab toolbox for hierarchical covariate-adjusted independent component analysis of fMRI data (Short Course at SMI 2022)](https://github.com/Emory-CBIS/HINT)
+===============
+<i><i class="fa fa-calendar" aria-hidden="true"></i> May 25, 2022 | Nashville, TN</i>
+
+<b>Instructor(s):</b> [Joshua Lukemire](https://github.com/JoshuaLukemire) (Emory University) and [Ying Guo](https://www.yingguo.us) (Emory University)
+- [Video Recording](https://youtu.be/lacy1bnKTYA)
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
 
 [Introduction to Deep Learning (Short Course at SMI 2021)](https://smi2021emory.github.io/Program/docs/short-course.html)
 ===============
