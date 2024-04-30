@@ -12,6 +12,8 @@
 {% assign students_temp = site.data.student_paper_competitions | where_exp:"item", "item.Year == requested_year" %}
 {% assign students = students_temp | where_exp:"item", "item.Conference == requested_conference" %}
 {% assign winners = students | where_exp:"item", "item.Type == 'Winner'" %}
+<!-- Github does not support Jykell > 4.0 So "item.Type == 'Winner' or item.Type == 'Co-Winner'" does not work as it is only supported in Jykell >= 4.0'-->
+{% assign cowinners = students | where_exp:"item", "item.Type == 'Co-Winner'" %}
 {% assign runnerups = students | where_exp:"item", "item.Type == 'Runner-Up'" %}
 
 <table class="tableSI">
@@ -31,6 +33,26 @@
 <th class="headerSI">Paper Title</th>
 </tr>
 </thead>
+<!-- Github does not support Jykell > 4.0 So we must use a separated list for co-winners-->
+    {% for student in cowinners %}
+            <tr>
+            <td>
+            {{ student.Firstname }} {{ student.Lastname }}
+            </td>
+            <td>
+            {{ student.Affil }}
+            </td>
+            <td>
+            {{ student.Advisor }}
+            </td>
+            <td>
+            <b>{{ student.Type }}</b>
+            </td>
+            <td>
+            {{ student.Title }}
+            </td>
+            </tr>
+    {% endfor %}
     {% for student in winners %}
             <tr>
             <td>

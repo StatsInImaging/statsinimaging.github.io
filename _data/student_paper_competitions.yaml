@@ -520,3 +520,42 @@
   Advisor: Jian Kang
   Track: N/A
 
+- Lastname: Shen
+  Firstname: Yueyang
+  Year: 2024
+  Conference: SMI
+  Type: Co-Winner
+  Title: Statistical foundations of invariance and equivariance in deep artificial neural network learning
+  Affil: University of Michigan
+  Advisor: Ivo D. Dinov
+  Track: Theory and Methods
+
+- Lastname: Buenfil
+  Firstname: James
+  Year: 2024
+  Conference: SMI
+  Type: Co-Winner
+  Title: Asymmetric canonical correlation analysis of Riemannian and high-dimensional data
+  Affil: University of Washington
+  Advisor: Eardi Lila
+  Track: Theory and Methods
+
+- Lastname: Chen
+  Firstname: Yixin
+  Year: 2024
+  Conference: SMI
+  Type: Winner
+  Title: Disentangled adversarial flow for multi-source learning
+  Affil: Virginia Tech
+  Advisor: Meimei Liu
+  Track: Case Studies and Application
+
+- Lastname: Chen
+  Firstname: Yi Tang
+  Year: 2024
+  Conference: SMI
+  Type: Runner-Up
+  Title: Assessment of glioblastoma multiforme tumor heterogeneity via MRI-derived shape and intensity features
+  Affil: The Ohio State University
+  Advisor: Sebastian Kurtek
+  Track: Case Studies and Application
