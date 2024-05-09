@@ -7,6 +7,17 @@ permalink: /resources_videos/
 title: Videos
 ---
 #### SI Virtual Working Group
+<b>Presenter:</b> [Dianne Patterson](https://profiles.arizona.edu/person/dkp/) (University of Arizona)
+
+<i>March 28, 2024</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/TMOhYe6DpQc" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+#### SI Virtual Working Group
 <b>Presenter:</b> [Syed Ejaz Ahmed](https://brocku.ca/mathematics-science/mathematics/directory/syed-ejaz-ahmed/) (Brock University)
 
 <i>February 28, 2024</i>
