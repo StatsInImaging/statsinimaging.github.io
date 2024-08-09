@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for invited session proposalsfor JSM 2025
+title: Call for Invited Session Proposals for JSM 2025
 date: 2024-08-09 07:13 
 categories: Conference
 ---
