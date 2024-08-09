@@ -6,4 +6,3 @@ categories: Conference
 ---
 
 The Business Meeting of the ASA Section on Statistics in Imaging took place during JSM 2024 (8/6/2024 at the Hyatt Regency Portland). During the meeting, reports on SI section's major events and activities, membership growth and finances were presented.
-See the [presentation slides](https://www.statsinimaging.org/assets/JSM2024-SI-BusinessMT-slides.pptx) (by Joshua Lukemire).
