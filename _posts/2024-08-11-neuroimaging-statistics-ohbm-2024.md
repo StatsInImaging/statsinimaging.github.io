@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Neuroimaging Statistic: Satellite Meeting of OHBM 2024
+title: Neuroimaging Statistic (Satellite Meeting of OHBM 2024)
 date: 2024-08-11 19:20 
 categories: Conference
 ---
