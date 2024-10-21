@@ -9,7 +9,7 @@ title: Workshops
 
 [Challenges in Neuroimaging Data Analysis Workshop](https://www.imsi.institute/activities/challenges-in-neuroimaging-data-analysis/)
 ==================
-<b>August 26, 2024 | Chicago, IL</b>
+<b>August 26--30, 2024 | Chicago, IL</b>
 
 Challenges in Neuroimaging Data Analysis Workshop, held at the [Institute for Mathematical and Statistical Innovation](https://www.imsi.institute/) 
 (IMSI) in Chicago, brought together experts and early-career researchers to discuss cutting-edge advancements and challenges in 
@@ -29,7 +29,7 @@ Here is the [link](https://www.youtube.com/watch?v=CHu2T629xnU&list=PLA_E7IjY9cw
 
 [NeuroConnect 2024: Advancing Brain Network Research Workshop](https://www.unc-epic.org/)
 ==================
-<b>August 8, 2024 | Chetola Resort, NC</b>
+<b>August 8--9, 2024 | Chetola Resort, NC</b>
 
 The UNC Education Program of Intelligence and Connectomics (UNC-EPIC) hosted the NeuroConnect 2024: Advancing Brain Network Research Workshop (suppoted by the NIH grant ***R25DA058940***).
 
