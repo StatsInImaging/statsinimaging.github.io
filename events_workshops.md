@@ -31,7 +31,7 @@ Here is the [link](https://www.youtube.com/watch?v=CHu2T629xnU&list=PLA_E7IjY9cw
 ==================
 <b>August 8, 2024 | Chetola Resort, NC</b>
 
-The UNC Education Program of Intelligence and Connectomics (UNC-EPIC) hosted the **NeuroConnect 2024: Advancing Brain Network Research Workshop** (suppoted by the NIH grant **R25DA058940**).
+The UNC Education Program of Intelligence and Connectomics (UNC-EPIC) hosted the NeuroConnect 2024: Advancing Brain Network Research Workshop (suppoted by the NIH grant ***R25DA058940***).
 
 **Organizers**
 
