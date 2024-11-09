@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Call for tutorials and invited sessions for SMI 2025
+title: Call for Tutorials and Invited Sessions for SMI 2025
 date: 2024-11-08 10:01 
 categories: Conference
 ---
