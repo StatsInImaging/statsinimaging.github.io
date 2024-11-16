@@ -28,7 +28,7 @@ Invited Session Proposal
 
 The SMI 2025 organizing committee welcomes your submission of proposals for invited oral sessions. Each session consists of four speakers or three speakers and one discussant. To facilitate the organization of the parallel sessions, we ask that each session has an emphasis on either **"Statistical Methods"** or **"Collaborative Case Study"**. 
 
-- Statical Methods: includes presentations that focus on new developments in statistical theory and methodologies, and statistical learning.
+- Statistical Methods: includes presentations that focus on new developments in statistical theory and methodologies, and statistical learning.
 - Collaborative Case Study: includes presentations that focus on the analyses of imaging data and the statistical challenges present in the analyses. 
 
 Please submit session proposals using this form: [SMI 2025 Proposals for Invited Sessions](https://docs.google.com/forms/d/e/1FAIpQLSc97awJJtQi5rpBdY7Sl29CsZFWSgFqVFbzeCL37WLakW4jmA/viewform). 
