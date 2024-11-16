@@ -6,8 +6,8 @@ categories: Conference
 ---
 
 The 2025 Statistical Methods in Imaging (SMI) conference will be held on May 19--21, 2025, at Rice University in Houston, TX. The conference will be fully in-person. SMI is the annual meeting of the ASA Statistics 
-in Imaging Section. It aims to bring together investigators from students to established researchers who are working on methods and applications in a diverse array of imaging science, including, but not limited to, biomedical 
-imaging, immunofluorescence imaging, and geospatial imaging.
+in Imaging Section. It aims to bring together investigators from students to established researchers who are working on methods and applications in a diverse array of imaging science, including, but not limited to, biomedical imaging, 
+digital pathology, single cell and spatial transcriptomics, satellite imaging, forensic imaging, astronomy, remote sensing, and materials science.
 
 Keynote Speakers
 ================
@@ -28,7 +28,7 @@ Invited Session Proposal
 
 The SMI 2025 organizing committee welcomes your submission of proposals for invited oral sessions. Each session consists of four speakers or three speakers and one discussant. To facilitate the organization of the parallel sessions, we ask that each session has an emphasis on either **"Statistical Methods"** or **"Collaborative Case Study"**. 
 
-- Statical Methods: includes presentations that focus on new developments in statistical theory and methodologies. 
+- Statical Methods: includes presentations that focus on new developments in statistical theory and methodologies, and statistical learning.
 - Collaborative Case Study: includes presentations that focus on the analyses of imaging data and the statistical challenges present in the analyses. 
 
 Please submit session proposals using this form: [SMI 2025 Proposals for Invited Sessions](https://docs.google.com/forms/d/e/1FAIpQLSc97awJJtQi5rpBdY7Sl29CsZFWSgFqVFbzeCL37WLakW4jmA/viewform). 
@@ -38,3 +38,7 @@ Poster Presentations
 ================
 
 Poster abstract submission is open until Saturday, **April 12, 2025**. Please submit poster abstracts using this form: [SMI 2025 Poster Abstract](https://docs.google.com/forms/d/e/1FAIpQLSdKQUgccFxzugZQz_mS-ptDn8L41T2YT55VVuoCQ0XkRt8BRQ/viewform).
+
+Contact
+================
+For questions, please contact <a href="mailto:marina@rice.edu">Marina Vannucci</a> (Ph.D.) and <a href="mailto:skundu2@mdanderson.org">Suprateek Kundu</a> (Ph.D.).
