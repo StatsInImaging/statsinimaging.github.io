@@ -32,7 +32,7 @@ To be **eligible** for the student paper competition, the student must satisfy t
 Submission details
 =========================
 
-The deadline for submission to the student paper competition is **March 29, 2025**. Submission should be sent to. Submission should be sent to <a href="rajguhaniyogi@tamu.edu">**Rajarshi Guhaniyogi**</a> with Subject Line either 
+The deadline for submission to the student paper competition is **March 29, 2025**. Submission should be sent to <a href="rajguhaniyogi@tamu.edu">**Rajarshi Guhaniyogi**</a> with the Subject Line:
 <u>SMI 2025: Student Paper Competition</u>, and the email should contain the following four attachments in PDF format:
 
 1. The applicant’s Curriculum Vitae.
