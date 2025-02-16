@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Call for proposals for 2024 Statistical Methods in Imaging (SMI) conference '
+title: 'Call for proposals for 2026 Statistical Methods in Imaging (SMI) conference '
 date: 2025-02-15 20:38 
 categories: conference
 ---
