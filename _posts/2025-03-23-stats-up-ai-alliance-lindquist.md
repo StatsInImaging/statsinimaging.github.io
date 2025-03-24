@@ -7,7 +7,7 @@ categories: webinar
 
 The [Stats Up AI group](https://statsupai.org/index.html) is dedicated to organizing initiatives that empower statisticians to play a more active role in AI research and leadership. Our members are committed to enhancing the contributions of statisticians in addressing real-world challenges through AI research. We emphasize the importance of integrating statistical methods with AI tools, ensuring that statisticians are not only contributors but also influential leaders in utilizing these combined approaches to solve practical problems.
 
-We are excited to announce the launch of a new webinar series, the ***Stats-Up-AI-Alliance***, aiming at advancing modern neuroimaging techniques within the community. The inaugural webinar will be held on **April 9, 2024 (Wednesday)** at **12:00 PM ET / 11:00 AM CT / 10:00 AM MT / 9:00 AM PT**, presented by Dr. **Martin Lindquist** from Johns Hopkins University. Details about the talk and the abstract are included below. We encourage you to share this exciting event with colleagues who may be interested, and we look forward to your participation in the webinar.
+We are excited to announce the launch of a new webinar series, the ***Stats-Up-AI-Alliance***, aiming at advancing modern neuroimaging techniques within the community. The inaugural webinar will be held on **April 9, 2025 (Wednesday)** at **12:00 PM ET / 11:00 AM CT / 10:00 AM MT / 9:00 AM PT**, presented by Dr. **Martin Lindquist** from Johns Hopkins University. Details about the talk and the abstract are included below. We encourage you to share this exciting event with colleagues who may be interested, and we look forward to your participation in the webinar.
 
 ### Talk
 **Elements of Functional Neuroimaging**
