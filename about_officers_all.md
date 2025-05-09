@@ -6,10 +6,11 @@ permalink: /about_officers_all/
 
 # Current Section Officers
 
-{% include yearly_officer_table.html requested_year=2024 %}
+{% include yearly_officer_table.html requested_year=2025 %}
 
 # Previous Section Officers
 
+{% include yearly_officer_table.html requested_year=2024 %}
 {% include yearly_officer_table.html requested_year=2023 %}
 {% include yearly_officer_table.html requested_year=2022 %}
 {% include yearly_officer_table.html requested_year=2021 %}
