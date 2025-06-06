@@ -6,6 +6,32 @@ layout: page
 permalink: /resources_videos/
 title: Videos
 ---
+#### Stats-Up-AI Webinar
+<b>Presenter:</b> [Ying Guo](https://www.yingguo.us/) (Emory University)
+
+<i>May 8, 2025</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/K1r-_9iOfwY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### Stats-Up-AI Webinar
+<b>Presenter:</b> [Martin Lindquist](https://publichealth.jhu.edu/faculty/2760/martin-a-lindquist/) (Johns Hopkins University)
+
+<i>April 9, 2025</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/dXpHUAddogo" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
 #### SI Virtual Working Group
 <b>Presenter:</b> [Dianne Patterson](https://profiles.arizona.edu/person/dkp/) (University of Arizona)
 
@@ -16,6 +42,8 @@ title: Videos
 &nbsp;
 
 <hr style="border:1px solid #DEDEDE">
+
+&nbsp;
 
 #### SI Virtual Working Group
 <b>Presenter:</b> [Syed Ejaz Ahmed](https://brocku.ca/mathematics-science/mathematics/directory/syed-ejaz-ahmed/) (Brock University)
