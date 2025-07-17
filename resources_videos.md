@@ -7,6 +7,19 @@ permalink: /resources_videos/
 title: Videos
 ---
 #### Stats-Up-AI Webinar
+<b>Presenter:</b> [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao/) (King Abdullah University of Science and Technology)
+
+<i>June 6, 2025</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/DehZosmpAUg" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### Stats-Up-AI Webinar
 <b>Presenter:</b> [Ying Guo](https://www.yingguo.us/) (Emory University)
 
 <i>May 8, 2025</i>
