@@ -23,9 +23,9 @@ You will need to have the following information to submit your session proposal 
 * Sponsor (Outside Organization, ASA Committee, ASA Section (e.g., Statistics in Imaging Section), Sponsoring Society, ASA Journal)---A pre-approved list is provided; select no more than three.
 * Session Title
 * Session Description---Please provide a short description of the session, including focus, content, timeliness, appeal, and format.
-*Session Organizer(s)---including affiliation and email address.
-*Session Chair---including affiliation and email address.
-*Session Speakers and Discussants---including affiliation and email address. 
+* Session Organizer(s)---including affiliation and email address.
+* Session Chair---including affiliation and email address.
+* Session Speakers and Discussants---including affiliation and email address. 
 
 Please contact potential participants before submitting a proposal, as they already may have committed to participating in another session at JSM 2025.  Speakers are only allowed to speak in one invited session. There are participation guidelines and restrictions regarding the number of times and in what capacity one can participate in the program: <ww2.amstat.org/meetings/jsm/2025/guidelines.cfm>.
 
