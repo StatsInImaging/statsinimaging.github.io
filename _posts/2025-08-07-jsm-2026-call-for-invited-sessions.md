@@ -5,7 +5,7 @@ date: 2025-08-07 15:17
 categories: Conference
 ---
 
-JSM 2026 will be held in Boston, MA, from August 1 to August 6, 2025. The deadline for submission of invited session proposals is **Wednesday, September 3, 2025 (11:59 p.m. Eastern)**. *This is a hard deadline**. 
+JSM 2026 will be held in Boston, MA, from August 1 to August 6, 2026. The deadline for submission of invited session proposals is **Wednesday, September 3, 2025 (11:59 p.m. Eastern)**. *This is a hard deadline**. 
 Please strongly consider choosing *Statistics in Imaging* as your sponsor.  
 
 Our section has **two** allocated invited session slots, plus **two** proposals that we can submit for competitive review, so we hope to obtain **four** invited sessions.
