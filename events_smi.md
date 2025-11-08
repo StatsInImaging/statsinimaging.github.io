@@ -16,7 +16,7 @@ The Statistical Methods in Imaging (SMI) conference is an annual meeting of the 
 Incoming SMI Meeting
 ==============
 
-<img src = "https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width = "50" height = "50">&nbsp;[SMI 2026](https://asa-sii.github.io/website/ASA-SII-2026/): *University of Michigan**, Ann Arbor, MI
+<img src = "https://brand.umich.edu/assets/brand/style-guide/logo-guidelines/U-M_Logo-Hex.png" width = "50" height = "50">&nbsp;[SMI 2026](https://asa-sii.github.io/website/ASA-SII-2026/): **University of Michigan**, Ann Arbor, MI
 
 <img src = "https://statsinimaging.github.io/assets/UM-campus.jpg" width = "600" height = "400">
 
