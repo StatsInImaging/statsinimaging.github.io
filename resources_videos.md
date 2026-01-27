@@ -7,6 +7,19 @@ permalink: /resources_videos/
 title: Videos
 ---
 #### Stats-Up-AI Webinar
+<b>Presenter:</b> [Dana Todurascu](https://psychstats.pitt.edu/neuroimaging-statistics-in-alzheimers-disease/) (University of Pittsburgh)
+
+<i>July 16, 2025</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/ujhrkUKqTMM" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### Stats-Up-AI Webinar
 <b>Presenter:</b> [Hernando Ombao](https://www.kaust.edu.sa/en/study/faculty/hernando-ombao/) (King Abdullah University of Science and Technology)
 
 <i>June 6, 2025</i>
@@ -38,6 +51,19 @@ title: Videos
 <i>April 9, 2025</i>
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/mbRuDh4Qf5g" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+&nbsp;
+
+<hr style="border:1px solid #DEDEDE">
+
+&nbsp;
+
+#### SI Virtual Working Group
+<b>Presenter:</b> John Bodenschatz (Marquette University)
+
+<i>March 19, 2025</i>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/rRmvJBiK66c" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
 
 &nbsp;
 
