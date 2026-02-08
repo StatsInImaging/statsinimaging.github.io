@@ -29,6 +29,16 @@
   Advisor: Taki Shinohara and Haochang Shou
   Track: N/A
 
+- Lastname: Chen
+  Firstname: Yi Tang
+  Year: 2024
+  Conference: SMI
+  Type: Runner-Up
+  Title: Assessment of Glioblastoma Multiforme Tumor Heterogeneity via MRI-Derived Shape and Intensity Features
+  Affil: The Ohio State University
+  Advisor: Sebastian Kurtek
+  Track: Case Studies and Application
+
 - Lastname: Consagra
   Firstname: William
   Year: 2022
@@ -325,9 +335,19 @@
   Year: 2023
   Conference: JSM
   Type: Runner-Up
-  Title: Bayesian structural determination by cryo-electron microscopy
+  Title: Bayesian Structural Determination by Cryo-Electron Microscopy
   Affil: Rice University
   Advisor: Meng Li
+  Track: N/A
+
+- Lastname: Tian
+  Firstname: Xinyuan
+  Year: 2026
+  Conference: JSM
+  Type: Runner-Up
+  Title: A Bayesian Deep Learning Framework for Brain Dynamic Functional Connectivity
+  Affil: Yale University
+  Advisor: Yize Zhao
   Track: N/A
 
 - Lastname: Thompson
@@ -411,6 +431,16 @@
   Track: N/A
 
 - Lastname: Wang
+  Firstname: Yiting
+  Year: 2026
+  Conference: JSM
+  Type: Winner
+  Title: Causal Learning of Invalid Instruments for High-Dimensional Imaging Responses
+  Affil: University of Virginia
+  Advisor: Chunlin Li, Shan Yu
+  Track: N/A
+
+- Lastname: Wang
   Firstname: Zihang
   Year: 2024
   Conference: JSM
@@ -490,6 +520,16 @@
   Advisor: Jun Young Park
   Track: N/A
 
+- Lastname: Zhao
+  Firstname: Wei
+  Year: 2026
+  Conference: JSM
+  Type: Runner-Up
+  Title: Estimating Covariate Effects on Functional Connectivity using Voxel-Level fMRI Data
+  Affil: North Carolina State University
+  Advisor: Brian Reich
+  Track: N/A
+
 - Lastname: Zhang
   Firstname: Yizi
   Year: 2023
@@ -518,6 +558,16 @@
   Title: Deep kernel learning based Gaussian processes for Bayesian image regression analysis
   Affil: University of Michigan
   Advisor: Jian Kang
+  Track: N/A
+
+- Lastname: Zhou
+  Firstname: Jingsong
+  Year: 2026
+  Conference: JSM
+  Type: Runner-Up
+  Title: Graph-Guided ComBat (GG-ComBat): A New Harmonization Method Accounting for Multivariate Dependencies in Multi-Site Neuroimaging Data 
+  Affil: University of Maryland
+  Advisor: Shuo Chen
   Track: N/A
 
 - Lastname: Shen
@@ -550,12 +600,4 @@
   Advisor: Meimei Liu
   Track: Case Studies and Application
 
-- Lastname: Chen
-  Firstname: Yi Tang
-  Year: 2024
-  Conference: SMI
-  Type: Runner-Up
-  Title: Assessment of glioblastoma multiforme tumor heterogeneity via MRI-derived shape and intensity features
-  Affil: The Ohio State University
-  Advisor: Sebastian Kurtek
-  Track: Case Studies and Application
+
