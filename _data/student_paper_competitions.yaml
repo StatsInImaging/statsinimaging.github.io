@@ -119,6 +119,16 @@
   Advisor: Ying Guo
   Track: N/A
 
+- Lastname: Hillman
+  Firstname: Noah
+  Year: 2026
+  Conference: SMI
+  Type: Runner-Up
+  Title: Testing for Network Sparsity in Brain-Behavior Associations Using Ordinal Dominance Curves
+  Affil: University of Pennsylvania
+  Advisor: Russell Shinohara and Haochang Shou
+  Track: Applications and Case Studies
+
 - Lastname: Hu
   Firstname: Yifei
   Year: 2022
@@ -250,6 +260,16 @@
   Track: N/A
 
 - Lastname: Ma
+  Firstname: Guoxuan
+  Year: 2026
+  Conference: SMI
+  Type: Runner-Up
+  Title: Sparse Bayesian Modeling of EEG Channel Interactions Improves P300 Brain-Computer Interface Performance
+  Affil: University of Maryland
+  Advisor: Shuo Chen
+  Track: Theory and Method
+
+- Lastname: Ma
   Firstname: Xin
   Year: 2022
   Conference: SMI
@@ -268,6 +288,16 @@
   Affil: Columbia University
   Advisor: Yuanjia Wang
   Track: N/A
+
+- Lastname: Mi
+  Firstname: Yuzi
+  Year: 2026
+  Conference: SMI
+  Type: Winner
+  Title: Bayesian Functional Spatial Partitioning for Boundary Surface Lesion Detection Using 3D MRI 
+  Affil: University of Minnesota
+  Advisor: Lin Zhang and Joe koopmeiners
+  Track: Applications and Case Studies
 
 - Lastname: Park
   Firstname: Jun Young
@@ -489,6 +519,16 @@
   Affil: University of California, Santa Cruz
   Advisor: Raquel Prado
   Track: N/A
+
+- Lastname: Ye
+  Firstname: Zhengyao
+  Year: 2026
+  Conference: SMI
+  Type: Winner
+  Title: Graph Guided Polygenic-Pleiotropic Architecture Analysis for Imaging-Genetic Data
+  Affil: University of Maryland
+  Advisor: Shuo Chen
+  Track: Theory and Method
 
 - Lastname: Yu
   Firstname: Shan
