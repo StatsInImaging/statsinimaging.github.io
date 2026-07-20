@@ -43,8 +43,8 @@
 
 - Lastname: Fiecas
   Firstname: Mark 
-  Years: [2025]
-  Positions: [Program Chair-Elect]
+  Years: [2026, 2025]
+  Positions: [Program Chair, Program Chair-Elect]
   affil: University of Minnesota
   email: mfiecas@umn.edu
 
@@ -64,8 +64,8 @@
 
 - Lastname: Guindani
   Firstname: Michele
-  Years: [2025, 2024]
-  Positions: [Chair, Chair-Elect]
+  Years: [2026, 2025, 2024]
+  Positions: [Past-Chair, Chair, Chair-Elect]
   affil: University of California, Los Angeles
   email: mguindani@g.ucla.edu
 
@@ -99,8 +99,8 @@
 
 - Lastname: Kang
   Firstname: Jian
-  Years: [2025, 2016, 2015]
-  Positions: [Chair-Elect, Program Chair, Program Chair-Elect]
+  Years: [2026, 2025, 2016, 2015]
+  Positions: [Chair, Chair-Elect, Program Chair, Program Chair-Elect]
   affil: University of Michigan
   email: jiankang@umich.edu
 
@@ -127,8 +127,8 @@
 
 - Lastname: Kundu
   Firstname: Suprateek
-  Years: [2025, 2024]
-  Positions: [Treasurer, Treasurer]
+  Years: [2026, 2025, 2024]
+  Positions: [Program Chair-Elect, Treasurer, Treasurer]
   affil: MD Anderson
   email: skundu2@mdanderson.org
 
@@ -162,8 +162,8 @@
 
 - Lastname: Lukemire
   Firstname: Joshua
-  Years: [2025, 2024, 2023]
-  Positions: [Secretary, Secretary, Secretary]
+  Years: [2026, 2025, 2024, 2023]
+  Positions: [Secretary, Secretary, Secretary, Secretary]
   affil: Emory University
   email: joshua.lukemire@emory.edu
 
@@ -180,6 +180,13 @@
   Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
   affil: Indiana University
   email: afmejia@iu.edu
+
+- Lastname: Moira
+  Firstname: Skelley
+  Years: [2026]
+  Positions: [Staff Liasion]
+  affil: American Statistical Association
+  email: kmoira@amstat.org
 
 - Lastname: Myers
   Firstname: Kary
@@ -253,8 +260,8 @@
 
 - Lastname: Shinohara
   Firstname: Russell
-  Years: [2021, 2020, 2019, 2016]
-  Positions: [Program Chair, Program Chair-Elect, Treasurer, Treasurer]
+  Years: [2026, 2021, 2020, 2019, 2016]
+  Positions: [Chair-Elect, Program Chair, Program Chair-Elect, Treasurer, Treasurer]
   affil: University of Pennsylvania
   email: rshi@pennmedicine.upenn.edu
 
@@ -329,9 +336,16 @@
   email: zhengwu_zhang@unc.edu
 
 - Lastname: Zhao
+  Firstname: Yi
+  Years: [2026]
+  Positions: [Treasurer]
+  affil: Indiana University
+  email: yz125@iu.edu
+
+- Lastname: Zhao
   Firstname: Yize
-  Years: [2025, 2024]
-  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
+  Years: [2026, 2025, 2024]
+  Positions: [Statistics in Imaging Section Representative, Statistics in Imaging Section Representative, Statistics in Imaging Section Representative]
   affil: Yale University
   email: yize.zhao@yale.edu
 
